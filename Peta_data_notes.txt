@@ -1,0 +1,44 @@
+Fortune 500 Corporate Headquarters
+Metadata Updated: February 14, 2019 
+https://catalog.data.gov/dataset/fortune-500-corporate-headquarters
+
+BLS Data - extracted June 2018. 
+Occupational Employment and Wages, May 2018
+15-0000 Computer and Mathematical Occupations (Major Group) comprises the following occupations: 
+Computer and Information Research Scientists ; Computer Systems Analysts ; Information Security Analysts ; 
+Computer Programmers ; Software Developers, Applications ; Software Developers, Systems Software ;
+Web Developers ; Database Administrators ; Network and Computer Systems Administrators ; 
+Computer Network Architects ; Computer User Support Specialists ; Computer Network Support Specialists ; 
+Computer Occupations, All Other ; Actuaries ; Mathematicians ; Operations Research Analysts ; Statisticians
+
+Converted  PR Puerto Riceo, GM Guam, Vi Virgin Islands
+Conveted number as string to numbers as integers
+Re-named column heading
+Opened in Excel to convert long name of State with ID to two letter abbreviation before importing
+Saved as csv utf8 file
+
+Corporate data - changed in Excel the City, State, Company name to lower case before importing
+
+State population data - taken form Wiki for 2018. Manipulated Excel before importing
+PR - Puerto Rico
+NI - Northern Mariana Islands
+DC - Dist of Columbia
+GM - Guam
+AS - American Samoa
+
+Data so far
+Company ticker (Symbol),
+Company	CEO (name), 
+Salary CEO,
+Sector,
+PE_Ratio,
+City HQ,
+State HQ, 
+Rank_State, 
+State_Pop (population), 
+State_Pop_Percent (of total USA)
+State Name, 
+Employ_No (Number of employees, Computer and Mathematical Occupations (Major Group)
+Mean_wage_yr (employees)
+Median_wage_yr	(employees)
+Employ per 1000 jobs (rate)
