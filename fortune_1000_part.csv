@@ -1,0 +1,1001 @@
+﻿Company,Revenues ($M),Profits ($M),Assets ($M),Employees,Sector,Industry,City,State
+Walmart,"$500,343 ","$9,862.00 ","$204,522 ","2,300,000",Retailing,General Merchandisers,Bentonville,AR
+Exxon Mobil,"$244,363 ","$19,710.00 ","$348,691 ","71,200",Energy,Petroleum Refining,Irving,TX
+Berkshire Hathaway,"$242,137 ","$44,940.00 ","$702,095 ","377,000",Financials,Insurance: Property and Casualty (Stock),Omaha,NE
+Apple,"$229,234 ","$48,351.00 ","$375,319 ","123,000",Technology,"Computers, Office Equipment",Cupertino,CA
+UnitedHealth Group,"$201,159 ","$10,558.00 ","$139,058 ","260,000",Health Care,Health Care: Insurance and Managed Care,Minnetonka,MN
+McKesson,"$198,533 ","$5,070.00 ","$60,969 ","64,500",Wholesalers,Wholesalers: Health Care,SF,CA
+CVS Health,"$184,765 ","$6,622.00 ","$95,131 ","203,000",Health Care,Health Care: Pharmacy and Other Services,Woonsocket,RI
+Amazon.com,"$177,866 ","$3,033.00 ","$131,310 ","566,000",Retailing,Internet Services and Retailing,Seattle,WA
+AT&T,"$160,546 ","$29,450.00 ","$444,097 ","254,000",Telecommunications,Telecommunications,Dallas,TX
+General Motors,"$157,311 ","($3,864.00)","$212,482 ","180,000",Motor Vehicles &  Parts,Motor Vehicles and Parts,Detroit,MI
+Ford Motor,"$156,776 ","$7,602.00 ","$257,808 ","202,000",Motor Vehicles &  Parts,Motor Vehicles and Parts,Dearborn,MI
+AmerisourceBergen,"$153,144 ",$364.50 ,"$35,317 ","19,500",Wholesalers,Wholesalers: Health Care,Chesterbrook,PA
+Chevron,"$134,533 ","$9,195.00 ","$253,806 ","51,900",Energy,Petroleum Refining,San Ramon,CA
+Cardinal Health,"$129,976 ","$1,288.00 ","$40,112 ","40,400",Wholesalers,Wholesalers: Health Care,Dublin,OH
+Costco,"$129,025 ","$2,679.00 ","$36,347 ","182,000",Retailing,General Merchandisers,Issaquah,WA
+Verizon,"$126,034 ","$30,101.00 ","$257,143 ","155,400",Telecommunications,Telecommunications,New York,NY
+Kroger,"$122,662 ","$1,907.00 ","$37,197 ","449,000",Food &  Drug Stores,Food and Drug Stores,Cincinnati,OH
+General Electric,"$122,274 ","($5,786.00)","$377,945 ","313,000",Industrials,Industrial Machinery,Boston,MA
+Walgreens Boots Alliance,"$118,214 ","$4,078.00 ","$66,009 ","290,000",Food &  Drug Stores,Food and Drug Stores,Deerfield,IL
+JPMorgan Chase,"$113,899 ","$24,441.00 ","$2,533,600 ","252,539",Financials,Commercial Banks,New York,NY
+Fannie Mae,"$112,394 ","$2,463.00 ","$3,345,529 ","7,200",Financials,Diversified Financials,Leavenworth,WA
+Alphabet,"$110,855 ","$12,662.00 ","$197,295 ","80,110",Technology,Internet Services and Retailing,Mountain View,CA
+Home Depot,"$100,904 ","$8,630.00 ","$44,529 ","413,000",Retailing,Specialty Retailers: Other,Atlanta,GA
+Bank of America Corp.,"$100,264 ","$18,232.00 ","$2,281,234 ","209,376",Financials,Commercial Banks,Charlotte,NC
+Express Scripts Holding,"$100,065 ","$4,517.40 ","$54,256 ","26,600",Health Care,Health Care: Pharmacy and Other Services,St. Louis,MO
+Wells Fargo,"$97,741 ","$22,183.00 ","$1,951,757 ","262,700",Financials,Commercial Banks,SF,CA
+Boeing,"$93,392 ","$8,197.00 ","$92,333 ","140,800",Aerospace &  Defense,Aerospace and Defense,Chicago,IL
+Phillips 66,"$91,568 ","$5,106.00 ","$54,371 ","14,600",Energy,Petroleum Refining,Houston,TX
+Anthem,"$90,040 ","$3,842.80 ","$70,540 ","56,000",Health Care,Health Care: Insurance and Managed Care,Indianapolis,IN
+Microsoft,"$89,950 ","$21,204.00 ","$241,086 ","124,000",Technology,Computer Software,Redmond,WA
+Valero Energy,"$88,407 ","$4,065.00 ","$50,158 ","10,015",Energy,Petroleum Refining,San Antonio,TX
+Citigroup,"$87,966 ","($6,798.00)","$1,842,465 ","209,000",Financials,Commercial Banks,New York,NY
+Comcast,"$84,526 ","$22,714.00 ","$186,949 ","164,000",Telecommunications,Telecommunications,Philadelphia,PA
+IBM,"$79,139 ","$5,753.00 ","$125,356 ","397,800",Technology,Information Technology Services,Armonk,NY
+Dell Technologies,"$78,660 ","($3,728.00)","$122,281 ","145,000",Technology,"Computers, Office Equipment",Round Rock,TX
+State Farm Insurance Cos.,"$78,331 ","$2,206.50 ","$272,345 ","65,664",Financials,Insurance: Property and Casualty (Mutual),Bloomington,IL
+Johnson & Johnson,"$76,450 ","$1,300.00 ","$157,303 ","134,000",Health Care,Pharmaceuticals,New Brunswick,NJ
+Freddie Mac,"$74,676 ","$5,625.00 ","$2,049,776 ","6,165",Financials,Diversified Financials,McLean,VA
+Target,"$71,879 ","$2,934.00 ","$38,999 ","345,000",Retailing,General Merchandisers,Minneapolis,MN
+Lowes,"$68,619 ","$3,447.00 ","$35,291 ","255,000",Retailing,Specialty Retailers: Other,Mooresville,NC
+Marathon Petroleum,"$67,610 ","$3,432.00 ","$49,047 ","43,800",Energy,Petroleum Refining,Findlay,OH
+Procter & Gamble,"$66,217 ","$15,326.00 ","$120,406 ","95,000",Household Products,Household and Personal Products,Cincinnati,OH
+MetLife,"$66,153 ","$4,010.00 ","$719,892 ","49,000",Financials,"Insurance: Life, Health (stock)",New York,NY
+UPS,"$65,872 ","$4,910.00 ","$45,403 ","346,415",Transportation,"Mail, Package, and Freight Delivery",Atlanta,GA
+PepsiCo,"$63,525 ","$4,857.00 ","$79,804 ","263,000","Food, Beverages &  Tobacco",Food Consumer Products,Harrison,NY
+Intel,"$62,761 ","$9,601.00 ","$123,249 ","102,700",Technology,Semiconductors and Other Electronic Components,Santa Clara,CA
+DowDuPont,"$62,683 ","$1,460.00 ","$192,164 ",98000,Chemicals,Chemicals,Midland,Michigan
+Archer Daniels Midland,"$60,828 ","$1,595.00 ","$39,963 ","31,300","Food, Beverages &  Tobacco",Food Production,Chicago,IL
+Aetna,"$60,535 ","$1,904.00 ","$55,151 ","47,950",Health Care,Health Care: Insurance and Managed Care,Hartford,CT
+FedEx,"$60,319 ","$2,997.00 ","$48,552 ","357,000",Transportation,"Mail, Package, and Freight Delivery",Memphis,TN
+United Technologies,"$59,837 ","$4,552.00 ","$96,920 ","204,700",Aerospace &  Defense,Aerospace and Defense,Farmington,CT
+Prudential Financial,"$59,689 ","$7,863.00 ","$831,921 ","49,705",Financials,"Insurance: Life, Health (stock)",Newark,NJ
+Albertsons Cos.,"$59,678 ",($373.30),"$23,755 ","273,000",Food &  Drug Stores,Food and Drug Stores,Boise,ID
+Sysco,"$55,371 ","$1,142.50 ","$17,757 ","66,500",Wholesalers,Wholesalers: Food and Grocery,Houston,TX
+Disney,"$55,137 ","$8,980.00 ","$95,789 ","199,000",Media,Entertainment,Burbank,CA
+Humana,"$53,767 ","$2,448.00 ","$27,178 ","45,900",Health Care,Health Care: Insurance and Managed Care,Louisville,KY
+Pfizer,"$52,546 ","$21,308.00 ","$171,797 ","90,200",Health Care,Pharmaceuticals,New York,NY
+HP,"$52,056 ","$2,526.00 ","$32,913 ","49,000",Technology,"Computers, Office Equipment",Palo Alto,CA
+Lockheed Martin,"$51,048 ","$2,002.00 ","$46,521 ","100,000",Aerospace &  Defense,Aerospace and Defense,Bethesda,MD
+AIG,"$49,520 ","($6,084.00)","$498,301 ","49,800",Financials,Insurance: Property and Casualty (Stock),New York,NY
+Centene,"$48,572 ",$828.00 ,"$21,855 ","33,700",Health Care,Health Care: Insurance and Managed Care,St. Louis,MO
+Cisco Systems,"$48,005 ","$9,609.00 ","$129,818 ","72,900",Technology,Network and Other Communications Equipment,San Jose,CA
+HCA Healthcare,"$47,653 ","$2,216.00 ","$36,593 ",221491,Health Care,Health Care: Medical Facilities,Nashville,TN
+Energy Transfer Equity,"$47,487 ",$954.00 ,"$86,246 ","29,486",Energy,Pipelines,Dallas,TX
+Caterpillar,"$45,462 ",$754.00 ,"$76,962 ","98,400",Industrials,Construction and Farm Machinery,Deerfield,IL
+Nationwide,"$43,940 ",$246.50 ,"$221,257 ","33,135",Financials,Insurance: Property and Casualty (Mutual),Columbus,OH
+Morgan Stanley,"$43,642 ","$6,111.00 ","$851,733 ","57,633",Financials,Commercial Banks,New York,NY
+Liberty Mutual Insurance Group,"$42,687 ",$17.00 ,"$142,502 ","50,000",Financials,Insurance: Property and Casualty (Stock),Boston,MA
+New York Life Insurance,"$42,296 ","$1,866.90 ","$303,183 ","11,114",Financials,"Insurance: Life, Health (Mutual)",New York,NY
+Goldman Sachs Group,"$42,254 ","$4,286.00 ","$916,776 ","36,600",Financials,Commercial Banks,New York,NY
+American Airlines Group,"$42,207 ","$1,919.00 ","$51,396 ","126,600",Transportation,Airlines,Fort Worth,TX
+Best Buy,"$42,151 ","$1,000.00 ","$13,049 ","125,000",Retailing,Specialty Retailers: Other,Richfield,MN
+Cigna,"$41,616 ","$2,237.00 ","$61,753 ","46,000",Health Care,Health Care: Insurance and Managed Care,Bloomfield,CT
+Charter Communications,"$41,581 ","$9,895.00 ","$146,623 ","94,800",Telecommunications,Telecommunications,Stamford,CT
+Delta Air Lines,"$41,244 ","$3,577.00 ","$53,292 ","86,564",Transportation,Airlines,Atlanta,GA
+Facebook,"$40,653 ","$15,934.00 ","$84,524 ","25,105",Technology,Internet Services and Retailing,Menlo Park,CA
+Honeywell International,"$40,534 ","$1,655.00 ","$59,387 ","131,000",Industrials,"Electronics, Electrical Equip.",Morris Plains,NJ
+Merck,"$40,122 ","$2,394.00 ","$87,872 ","69,000",Health Care,Pharmaceuticals,Kenilworth,NJ
+Allstate,"$38,524 ","$3,189.00 ","$112,422 ","42,680",Financials,Insurance: Property and Casualty (Stock),Northbrook,IL
+Tyson Foods,"$38,260 ","$1,774.00 ","$28,066 ","122,000","Food, Beverages &  Tobacco",Food Production,Springdale,AR
+United Continental Holdings,"$37,736 ","$2,131.00 ","$42,326 ","89,800",Transportation,Airlines,Chicago,IL
+Oracle,"$37,728 ","$9,335.00 ","$134,991 ","138,000",Technology,Computer Software,Redwood City,CA
+Tech Data,"$36,775 ",$116.60 ,"$12,653 ","14,000",Wholesalers,Wholesalers: Electronics and Office Equipment,Clearwater,FL
+TIAA,"$36,025 ","$1,049.70 ","$583,632 ","16,829",Financials,"Insurance: Life, Health (Mutual)",New York,NY
+TJX,"$35,865 ","$2,607.90 ","$14,058 ","249,000",Retailing,Specialty Retailers: Apparel,Framingham,MA
+American Express,"$35,583 ","$2,736.00 ","$181,159 ","55,000",Financials,Diversified Financials,New York,NY
+Coca-Cola,"$35,410 ","$1,248.00 ","$87,896 ","61,800","Food, Beverages &  Tobacco",Beverages,Atlanta,GA
+Publix Super Markets,"$34,837 ","$2,291.90 ","$18,184 ","193,000",Food &  Drug Stores,Food and Drug Stores,Lakeland,FL
+Nike,"$34,350 ","$4,240.00 ","$23,259 ","74,400",Apparel,Apparel,Beaverton,OR
+Andeavor,"$34,204 ","$1,528 ","$28,573 ",14300,Energy,Petroleum Refining,San Antonio,TX
+World Fuel Services,"$33,696 ",($170.20),"$5,588 ","5,000",Energy,Energy,Miami,FL
+Exelon,"$33,531 ","$3,770.00 ","$116,700 ","34,621",Energy,Utilities: Gas and Electric,Chicago,IL
+Massachusetts Mutual Life Insurance,"$33,495 ",$513.00 ,"$288,855 ","11,811",Financials,"Insurance: Life, Health (Mutual)",Springfield,MA
+Rite Aid,"$32,845 ",$4.10 ,"$11,594 ","70,430",Food &  Drug Stores,Food and Drug Stores,Camp Hill,PA
+ConocoPhillips,"$32,584 ",($855.00),"$73,362 ","11,400",Energy,"Mining, Crude-Oil Production",Houston,TX
+CHS,"$31,935 ",$127.90 ,"$15,974 ","11,626","Food, Beverages &  Tobacco",Food Production,Inver Grove Heights,MN
+3M,"$31,657 ","$4,858.00 ","$37,987 ","91,536",Industrials,Miscellaneous,St Paul,MN
+Time Warner,"$31,271 ","$5,247.00 ","$69,209 ","26,000",Media,Entertainment,New York,NY
+General Dynamics,"$30,973 ","$2,912.00 ","$35,046 ","98,600",Aerospace &  Defense,Aerospace and Defense,Falls Church,VA
+USAA,"$30,016 ","$2,421.90 ","$155,391 ","32,705",Financials,Insurance: Property and Casualty (Stock),San Antonio,TX
+Capital One Financial,"$29,999 ","$1,982.00 ","$365,693 ","49,300",Financials,Commercial Banks,McLean,VA
+Deere,"$29,738 ","$2,159.10 ","$65,786 ","60,476",Industrials,Construction and Farm Machinery,Moline,IL
+INTL FCStone,"$29,424 ",$6.40 ,"$6,243 ","1,607",Financials,Diversified Financials,New York,NY
+Northwestern Mutual,"$29,331 ","$1,017.00 ","$265,049 ","5,437",Financials,"Insurance: Life, Health (Mutual)",Milwaukee,WI
+Enterprise Products Partners,"$29,242 ","$2,799.30 ","$54,418 ","7,000",Energy,Pipelines,Houston,TX
+Travelers Cos.,"$28,902 ","$2,056.00 ","$103,483 ","30,800",Financials,Insurance: Property and Casualty (Stock),New York,NY
+Hewlett Packard Enterprise,"$28,871 ",$344.00 ,"$61,406 ","66,000",Technology,"Computers, Office Equipment",Palo Alto,CA
+Philip Morris International,"$28,748 ","$6,035.00 ","$42,968 ","80,600","Food, Beverages &  Tobacco",Tobacco,New York,NY
+Twenty-First Century Fox,"$28,500 ","$2,952.00 ","$50,724 ","21,700",Media,Entertainment,New York,NY
+AbbVie,"$28,216 ","$5,309.00 ","$70,786 ","29,000",Health Care,Pharmaceuticals,North Chicago,IL
+Abbott Laboratories,"$27,390 ",$477.00 ,"$76,250 ","99,000",Health Care,Medical Products and Equipment,Lake Bluff,IL
+Progressive,"$26,839 ","$1,592.20 ","$38,701 ","33,656",Financials,Insurance: Property and Casualty (Stock),Mayfield,OH
+Arrow Electronics,"$26,813 ",$402.00 ,"$16,463 ","18,800",Wholesalers,Wholesalers: Electronics and Office Equipment,Centennial,CO
+Kraft Heinz,"$26,232 ","$10,999.00 ","$120,232 ","39,000","Food, Beverages &  Tobacco",Food Consumer Products,Pittsburgh,PA
+Plains GP Holdings,"$26,223 ",($731.00),"$26,753 ","4,850",Energy,Pipelines,Houston,TX
+Gilead Sciences,"$26,107 ","$4,628.00 ","$70,283 ","10,000",Health Care,Pharmaceuticals,San Mateo,CA
+Mondelez International,"$25,896 ","$2,922.00 ","$63,109 ","83,000","Food, Beverages &  Tobacco",Food Consumer Products,Deerfield,IL
+Northrop Grumman,"$25,803 ","$2,015.00 ","$34,917 ","70,000",Aerospace &  Defense,Aerospace and Defense,Falls Church,VA
+Raytheon,"$25,348 ","$2,024.00 ","$30,860 ","64,000",Aerospace &  Defense,Aerospace and Defense,Waltham,MA
+Macys,"$24,837 ","$1,547.00 ","$19,381 ","130,000",Retailing,General Merchandisers,Cincinnati,OH
+US Foods Holding,"$24,147 ",$444.30 ,"$9,037 ","25,204",Wholesalers,Wholesalers: Food and Grocery,Rosemont,IL
+U.S. Bancorp,"$23,996 ","$6,218.00 ","$462,040 ","72,402",Financials,Commercial Banks,Minneapolis,MN
+Dollar General,"$23,471 ","$1,539.00 ","$12,517 ","129,000",Retailing,Specialty Retailers: Other,Goodlettsville,TN
+International Paper,"$23,302 ","$2,144.00 ","$33,903 ","56,000",Materials,"Packaging, Containers",Memphis,TN
+Duke Energy,"$23,189 ","$3,059.00 ","$137,914 ","29,060",Energy,Utilities: Gas and Electric,Charlotte,NC
+Southern,"$23,031 ",$842.00 ,"$111,005 ","31,344",Energy,Utilities: Gas and Electric,Atlanta,GA
+Marriott International,"$22,894 ","$1,372.00 ","$23,948 ","177,000","Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",Bethesda,MD
+Avnet,"$22,872 ",$525.30 ,"$9,700 ","15,700",Wholesalers,Wholesalers: Electronics and Office Equipment,Phoenix,AZ
+Eli Lilly,"$22,871 ",($204.10),"$44,981 ","40,655",Health Care,Pharmaceuticals,Indianapolis,IN
+Amgen,"$22,849 ","$1,979.00 ","$79,954 ","20,800",Health Care,Pharmaceuticals,Thousand Oaks,CA
+McDonalds,"$22,820 ","$5,192.30 ","$33,804 ","235,000","Hotels, Restaurants &  Leisure",Food Services,Oak Brook,IL
+Starbucks,"$22,387 ","$2,884.70 ","$14,366 ","277,000","Hotels, Restaurants &  Leisure",Food Services,Seattle,WA
+Qualcomm,"$22,291 ","$2,466.00 ","$65,486 ","33,800",Technology,Semiconductors and Other Electronic Components,San Diego,CA
+Dollar Tree,"$22,246 ","$1,714.30 ","$16,333 ","116,200",Retailing,Specialty Retailers: Other,Chesapeake,VA
+PBF Energy,"$21,787 ",$415.50 ,"$8,118 ","3,165",Energy,Petroleum Refining,Parsippany-Troy Hills,NJ
+Icahn Enterprises,"$21,744 ","$2,430.00 ","$31,801 ","89,034",Financials,Diversified Financials,New York,NY
+Aflac,"$21,667 ","$4,604.00 ","$137,217 ","11,318",Financials,"Insurance: Life, Health (stock)",Columbus,GA
+AutoNation,"$21,535 ",$434.60 ,"$10,272 ","26,000",Retailing,"Automotive Retailing, Services",Fort Lauderdale,FL
+Penske Automotive Group,"$21,389 ",$613.30 ,"$10,541 ","26,000",Retailing,"Automotive Retailing, Services",Bloomfield Hills,MI
+Whirlpool,"$21,253 ",$350.00 ,"$20,038 ","92,000",Industrials,"Electronics, Electrical Equip.",Benton Harbor,MI
+Union Pacific,"$21,240 ","$10,712.00 ","$57,806 ","41,992",Transportation,Railroads,Omaha,NE
+Southwest Airlines,"$21,171 ","$3,488.00 ","$25,110 ","56,110",Transportation,Airlines,Dallas,TX
+ManpowerGroup,"$21,034 ",$545.40 ,"$8,884 ","29,000",Business Services,Temporary Help,Milwaukee,WI
+Thermo Fisher Scientific,"$20,918 ","$2,225.00 ","$56,669 ","66,100",Technology,"Scientific,Photographic and  Control Equipment",Waltham,MA
+Bristol-Myers Squibb,"$20,776 ","$1,007.00 ","$33,551 ","23,700",Health Care,Pharmaceuticals,New York,NY
+Halliburton,"$20,620 ",($463.00),"$25,085 ","55,000",Energy,"Oil and Gas Equipment, Services",Houston,TX
+Tenet Healthcare,"$20,613 ",($704.00),"$23,385 ","111,980",Health Care,Health Care: Medical Facilities,Dallas,TX
+Lear,"$20,467 ","$1,313.40 ","$11,946 ","165,000",Motor Vehicles &  Parts,Motor Vehicles and Parts,Southfield,MI
+Cummins,"$20,428 ",$999.00 ,"$18,075 ","58,600",Industrials,Industrial Machinery,Columbus,IN
+Micron Technology,"$20,322 ","$5,089.00 ","$35,336 ","34,100",Technology,Semiconductors and Other Electronic Components,Boise,ID
+Nucor,"$20,252 ","$1,318.70 ","$15,841 ","25,100",Materials,Metals,Charlotte,NC
+Molina Healthcare,"$19,883 ",($512.00),"$8,471 ","20,000",Health Care,Health Care: Insurance and Managed Care,Long Beach,CA
+Fluor,"$19,521 ",$191.40 ,"$9,328 ","56,706",Engineering &  Construction,"Engineering, Construction",Irving,TX
+Altria Group,"$19,494 ","$10,222.00 ","$43,202 ","8,300","Food, Beverages &  Tobacco",Tobacco,Richmond,VA
+Paccar,"$19,456 ","$1,675.20 ","$23,440 ","25,000",Industrials,Construction and Farm Machinery,Bellevue,WA
+Hartford Financial Services,"$19,228 ","($3,131.00)","$225,260 ","16,400",Financials,Insurance: Property and Casualty (Stock),Hartford,CT
+Kohls,"$19,095 ",$859.00 ,"$13,340 ","85,000",Retailing,General Merchandisers,Menomonee Falls,WI
+Western Digital,"$19,093 ",$397.00 ,"$29,860 ","67,629",Technology,"Computers, Office Equipment",San Jose,CA
+Jabil,"$19,063.10 ",$129.10 ,"$11,096 ",170000,Technology,Semiconductors and Other Electronic Components,St. Petersburg,FL
+Community Health Systems,"$18,477 ","($2,459.00)","$17,450 ","86,000",Health Care,Health Care: Medical Facilities,Franklin,TN
+Visa,"$18,358 ","$6,699.00 ","$67,977 ","15,000",Business Services,Financial Data Services,SF,CA
+Danaher,"$18,330 ","$2,492.10 ","$46,649 ","67,000",Health Care,Medical Products and Equipment,Leavenworth,WA
+Kimberly-Clark,"$18,259 ","$2,278.00 ","$15,151 ","42,000",Household Products,Household and Personal Products,Irving,TX
+AECOM,"$18,203 ",$339.40 ,"$14,397 ","87,000",Engineering &  Construction,"Engineering, Construction",Los Angeles,CA
+PNC Financial Services,"$18,035 ","$5,338.00 ","$380,768 ","51,632",Financials,Commercial Banks,Pittsburgh,PA
+CenturyLink,"$17,656 ","$1,389.00 ","$75,611 ","51,000",Telecommunications,Telecommunications,Monroe,LA
+NextEra Energy,"$17,195 ","$5,378.00 ","$97,827 ","14,000",Energy,Utilities: Gas and Electric,North Palm Beach,FL
+PG& E Corp.,"$17,135 ","$1,646.00 ","$68,012 ","23,000",Energy,Utilities: Gas and Electric,SF,CA
+Synnex,"$17,046 ",$301.20 ,"$7,699 ","113,600",Wholesalers,Wholesalers: Electronics and Office Equipment,Fremont,CA
+WellCare Health Plans,"$17,007 ",$373.70 ,"$8,365 ","8,900",Health Care,Health Care: Insurance and Managed Care,Tampa,FL
+Performance Food Group,"$16,762 ",$96.30 ,"$3,804 ","14,000",Wholesalers,Wholesalers: Food and Grocery,Richmond,VA
+Sears Holdings,"$16,702 ",($383.00),"$7,262 ","89,000",Retailing,General Merchandisers,Hoffman Estates,IL
+Synchrony Financial,"$16,695 ","$1,935.00 ","$95,808 ","16,000",Financials,Diversified Financials,Stamford,CT
+CarMax,"$16,637 ",$627.00 ,"$16,279 ","24,344",Retailing,"Automotive Retailing, Services",Richmond,VA
+Bank of New York Mellon,"$16,621 ","$4,090.00 ","$371,758 ",52500,Financials,Commercial Banks,New York City,NY
+Freeport-McMoRan,"$16,416 ","$1,817.00 ","$37,302 ","25,200",Energy,"Mining, Crude-Oil Production",Phoenix,AZ
+Genuine Parts,"$16,309 ",$616.80 ,"$12,412 ","48,000",Wholesalers,Wholesalers: Diversified,Atlanta,GA
+Emerson Electric,"$16,301 ","$1,518.00 ","$19,589 ","76,500",Industrials,Industrial Machinery,St. Louis,MO
+DaVita,"$16,038 ",$663.60 ,"$18,948 ","74,500",Health Care,Health Care: Medical Facilities,Denver,CO
+Supervalu,"$16,009 ",$650.00 ,"$3,580 ","29,000",Food &  Drug Stores,Food and Drug Stores,Eden Prairie,MN
+Gap,"$15,855 ",$848.00 ,"$7,989 ","135,000",Retailing,Specialty Retailers: Apparel,SF,CA
+General Mills,"$15,620 ","$1,657.50 ","$21,813 ","38,000","Food, Beverages &  Tobacco",Food Consumer Products,Minneapolis,MN
+Nordstrom,"$15,478 ",$437.00 ,"$8,115 ","76,000",Retailing,General Merchandisers,Seattle,WA
+Colgate-Palmolive,"$15,454 ","$2,024.00 ","$12,676 ","35,900",Household Products,Household and Personal Products,New York,NY
+American Electric Power,"$15,425 ","$1,912.60 ","$64,729 ","17,666",Energy,Utilities: Gas and Electric,Columbus,OH
+XPO Logistics,"$15,381 ",$340.20 ,"$12,602 ","95,000",Transportation,Transportation and Logistics,Greenwich,CT
+Goodyear Tire & Rubber,"$15,377 ",$346.00 ,"$17,064 ","64,000",Motor Vehicles &  Parts,Motor Vehicles and Parts,Akron,OH
+Omnicom Group,"$15,274 ","$1,088.40 ","$24,931 ","77,300",Business Services,"Advertising, marketing",New York,NY
+CDW,"$15,192 ",$523.00 ,"$6,957 ","8,726",Technology,Information Technology Services,Lincolnshire,IL
+Sherwin-Williams,"$14,984 ","$1,772.30 ","$19,958 ","52,695",Chemicals,Chemicals,Cleveland,OH
+PPG Industries,"$14,967 ","$1,591.00 ","$16,538 ","47,200",Chemicals,Chemicals,Pittsburgh,PA
+Texas Instruments,"$14,961 ","$3,682.00 ","$17,642 ","29,714",Technology,Semiconductors and Other Electronic Components,Dallas,TX
+C.H. Robinson Worldwide,"$14,869 ",$504.90 ,"$4,236 ","15,074",Transportation,Transportation and Logistics,Eden Prairie,MN
+WestRock,"$14,860 ",$708.20 ,"$25,089 ","44,800",Materials,"Packaging, Containers",Atlanta,GA
+Cognizant Technology Solutions,"$14,810 ","$1,504.00 ","$15,221 ","260,000",Technology,Information Technology Services,Teaneck,NJ
+Newell Brands,"$14,742 ","$2,748.80 ","$33,136 ","49,000",Household Products,"Home Equipment, Furnishings",Hoboken,NJ
+CBS,"$14,710 ",$357.00 ,"$20,843 ","14,715",Media,Entertainment,New York,NY
+Envision Healthcare,"$14,701 ",($228.00),"$16,573 ","57,750",Health Care,Health Care: Pharmacy and Other Services,Nashville,TN
+Monsanto,"$14,640 ","$2,260.00 ","$21,333 ","21,900",Chemicals,Chemicals,St. Louis,MO
+Aramark,"$14,604 ",$373.90 ,"$11,006 ","215,000",Business Services,Diversified Outsourcing Services,Philadelphia,PA
+Applied Materials,"$14,537 ","$3,434.00 ","$19,419 ","18,400",Technology,Semiconductors and Other Electronic Components,Santa Clara,CA
+Waste Management,"$14,485 ","$1,949.00 ","$21,829 ","42,300",Business Services,Waste Management,Houston,TX
+DISH Network,"$14,391 ","$2,098.70 ","$29,774 ","17,000",Telecommunications,Telecommunications,Englewood,CO
+Illinois Tool Works,"$14,314 ","$1,687.00 ","$16,780 ","50,000",Industrials,Industrial Machinery,Glenview,IL
+Lincoln National,"$14,257 ","$2,079.00 ","$281,763 ","9,047",Financials,"Insurance: Life, Health (stock)",Wayne,PA
+HollyFrontier,"$14,251 ",$805.40 ,"$10,692 ","3,522",Energy,Petroleum Refining,Dallas,TX
+CBRE Group,"$14,210 ",$691.50 ,"$11,484 ","80,000",Financials,Real estate,Los Angeles,CA
+Textron,"$14,198 ",$307.00 ,"$15,340 ","37,000",Aerospace &  Defense,Aerospace and Defense,Providence,RI
+Ross Stores,"$14,135 ","$1,362.80 ","$5,722 ","82,700",Retailing,Specialty Retailers: Apparel,Dublin,CA
+Principal Financial,"$14,093 ","$2,310.40 ","$253,941 ","15,378",Financials,"Insurance: Life, Health (stock)",Des Moines,IA
+D.R. Horton,"$14,091 ","$1,038.40 ","$12,185 ","7,735",Engineering &  Construction,Homebuilders,Arlington,TX
+Marsh & McLennan,"$14,024 ","$1,492.00 ","$20,429 ","64,000",Financials,Diversified Financials,New York,NY
+Devon Energy,"$13,949 ",$898.00 ,"$30,241 ","3,414",Energy,"Mining, Crude-Oil Production",Oklahoma City,OK
+AES,"$13,850 ","($1,161.00)","$33,112 ","10,500",Energy,Utilities: Gas and Electric,Arlington,VA
+Ecolab,"$13,838 ","$1,508.40 ","$19,962 ","48,400",Chemicals,Chemicals,St Paul,MN
+Land O'Lakes,"$13,740 ",$314.20 ,"$9,509 ","10,000","Food, Beverages &  Tobacco",Food Consumer Products,Arden Hills,MN
+Loews,"$13,735 ","$1,164.00 ","$79,586 ","18,100",Financials,Insurance: Property and Casualty (Stock),New York,NY
+Kinder Morgan,"$13,705 ",$183.00 ,"$79,055 ","10,897",Energy,Pipelines,Houston,TX
+FirstEnergy,"$13,627 ","($1,724.00)","$42,257 ","15,617",Energy,Utilities: Gas and Electric,Akron,OH
+Occidental Petroleum,"$13,274 ","$1,311.00 ","$42,026 ","11,000",Energy,"Mining, Crude-Oil Production",Houston,TX
+Viacom,"$13,263 ","$1,874.00 ","$23,698 ","11,200",Media,Entertainment,New York,NY
+PayPal Holdings,"$13,094 ","$1,795.00 ","$40,774 ","18,700",Business Services,Financial Data Services,San Jose,CA
+NGL Energy Partners,"$13,022 ",$137.00 ,"$6,320 ","2,700",Energy,Energy,Tulsa,OK
+Celgene,"$13,003 ","$2,940.00 ","$30,141 ","7,467",Health Care,Pharmaceuticals,Summit,NJ
+Arconic,"$12,960 ",($74.00),"$18,718 ","41,500",Aerospace &  Defense,Aerospace and Defense,New York,NY
+Kellogg,"$12,923 ","$1,269.00 ","$16,350 ","32,944","Food, Beverages &  Tobacco",Food Consumer Products,Battle Creek,MI
+Las Vegas Sands,"$12,882 ","$2,806.00 ","$20,687 ","50,500","Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",Las Vegas,NV
+Stanley Black & Decker,"$12,747 ","$1,226.00 ","$19,080 ","57,765",Household Products,"Home Equipment, Furnishings",New Britain,CT
+Booking Holdings,"$12,681 ","$2,340.80 ","$25,451 ","22,900",Technology,Internet Services and Retailing,Norwalk,CT
+Lennar,"$12,646 ",$810.50 ,"$18,745 ","9,111",Engineering &  Construction,Homebuilders,Miami,FL
+L Brands,"$12,632 ",$983.00 ,"$8,149 ","59,200",Retailing,Specialty Retailers: Apparel,Columbus,OH
+DTE Energy,"$12,607 ","$1,134.00 ","$33,767 ","10,200",Energy,Utilities: Gas and Electric,Detroit,MI
+Dominion Energy,"$12,586 ","$2,999.00 ","$76,585 ",16200,Energy,Utilities: Gas and Electric,Richmond,VA
+Reinsurance Group of America,"$12,516 ","$1,822.20 ","$60,515 ","2,640",Financials,"Insurance: Life, Health (stock)",Chesterfield,MO
+J.C. Penney,"$12,506 ",($116.00),"$8,413 ","98,000",Retailing,General Merchandisers,Plano,TX
+Mastercard,"$12,497 ","$3,915.00 ","$21,329 ","13,400",Business Services,Financial Data Services,Harrison,NY
+BlackRock,"$12,491 ","$4,970.00 ","$220,217 ","13,900",Financials,Securities,New York,NY
+Henry Schein,"$12,462 ",$406.30 ,"$7,811 ","22,000",Wholesalers,Wholesalers: Health Care,Melville,NY
+Guardian Life Ins. Co. of America,"$12,455 ",$455.30 ,"$75,038 ","9,283",Financials,"Insurance: Life, Health (Mutual)",New York,NY
+Stryker,"$12,444 ","$1,020.00 ","$22,197 ","33,000",Health Care,Medical Products and Equipment,Kalamazoo,MI
+Jefferies Financial Group,"$12,408 ",$171.70 ,"$47,169 ","12,700",Financials,Diversified Financials,New York,NY
+VF,"$12,400 ",$614.90 ,"$9,959 ","69,000",Apparel,Apparel,Greensboro,NC
+ADP,"$12,380 ","$1,733.40 ","$37,180 ","58,000",Business Services,Diversified Outsourcing Services,Roseland,NJ
+Edison International,"$12,320 ",$565.00 ,"$52,580 ","12,521",Energy,Utilities: Gas and Electric,Rosemead,CA
+Biogen,"$12,274 ","$2,539.10 ","$23,653 ","7,300",Health Care,Pharmaceuticals,Cambridge,MA
+United States Steel,"$12,250 ",$387.00 ,"$9,862 ","29,200",Materials,Metals,Pittsburgh,PA
+Core-Mark Holding,"$12,225 ",$33.50 ,"$1,783 ","8,413",Wholesalers,Wholesalers: Food and Grocery,South San Francisco,CA
+Bed Bath & Beyond,"$12,216 ",$685.10 ,"$6,846 ","65,000",Retailing,Specialty Retailers: Other,Union,NJ
+Oneok,"$12,174 ",$387.80 ,"$16,846 ","2,470",Energy,Pipelines,Tulsa,OK
+BB& T Corp.,"$12,156 ","$2,394.00 ","$221,642 ","36,484",Financials,Commercial Banks,Winston-Salem,NC
+Becton Dickinson,"$12,093 ","$1,100.00 ","$37,734 ","41,933",Health Care,Medical Products and Equipment,Franklin Lakes,NJ
+Ameriprise Financial,"$12,075 ","$1,480.00 ","$147,470 ","13,312",Financials,Diversified Financials,Minneapolis,MN
+Farmers Insurance Exchange,"$12,072 ",($65.40),"$16,165 ","13,015",Financials,Insurance: Property and Casualty (Mutual),Los Angeles,CA
+First Data,"$12,052 ","$1,465.00 ","$48,269 ","22,000",Business Services,Financial Data Services,New York,NY
+Consolidated Edison,"$12,033 ","$1,525.00 ","$48,111 ","15,591",Energy,Utilities: Gas and Electric,New York,NY
+Parker-Hannifin,"$12,029 ",$983.40 ,"$15,490 ","56,690",Industrials,Industrial Machinery,Cleveland,OH
+Anadarko Petroleum,"$11,908 ",($456.00),"$42,086 ","4,400",Energy,"Mining, Crude-Oil Production",The Woodlands,TX
+Estee Lauder,"$11,824 ","$1,249.00 ","$11,568 ","46,000",Household Products,Household and Personal Products,New York,NY
+State Street Corp.,"$11,774 ","$2,177.00 ","$238,425 ","36,643",Financials,Commercial Banks,Boston,MA
+Tesla,"$11,759 ","($1,961.40)","$28,655 ","37,543",Motor Vehicles &  Parts,Motor Vehicles and Parts,Palo Alto,CA
+Netflix,"$11,693 ",$558.90 ,"$19,013 ","5,100",Technology,Internet Services and Retailing,Los Gatos,CA
+Alcoa,"$11,652 ",$217.00 ,"$17,447 ","14,600",Materials,Metals,Pittsburgh,PA
+Discover Financial Services,"$11,545 ","$2,099.00 ","$100,087 ","16,500",Financials,Commercial Banks,Riverwoods,IL
+Praxair,"$11,437 ","$1,247.00 ","$20,436 ","26,461",Chemicals,Chemicals,Danbury,CT
+CSX,"$11,408 ","$5,471.00 ","$35,739 ","24,006",Transportation,Railroads,Jacksonville,FL
+Xcel Energy,"$11,404 ","$1,148.00 ","$43,030 ","11,105",Energy,Utilities: Gas and Electric,Minneapolis,MN
+Unum Group,"$11,287 ",$994.20 ,"$64,013 ","9,400",Financials,"Insurance: Life, Health (stock)",Chattanooga,TN
+Universal Health Services,"$11,279 ",$752.30 ,"$10,762 ","72,300",Health Care,Health Care: Medical Facilities,King of Prussia,PA
+NRG Energy,"$11,275 ","($2,153.00)","$23,318 ","5,940",Energy,Energy,Princeton,NJ
+EOG Resources,"$11,208 ","$2,582.60 ","$29,833 ","2,664",Energy,"Mining, Crude-Oil Production",Houston,TX
+Sempra Energy,"$11,207 ",$256.00 ,"$50,454 ","16,046",Energy,Utilities: Gas and Electric,San Diego,CA
+Toys 'R' Us,"$11,146 ",($612.00),"$7,262 ","65,000",Retailing,Specialty Retailers: Other,Wayne,NJ
+Group 1 Automotive,"$11,124 ",$213.40 ,"$4,871 ","14,108",Retailing,"Automotive Retailing, Services",Houston,TX
+Entergy,"$11,075 ",$411.60 ,"$46,707 ","13,504",Energy,Utilities: Gas and Electric,New Orleans,LA
+Molson Coors Brewing,"$11,003 ","$1,414.20 ","$30,247 ","17,200","Food, Beverages &  Tobacco",Beverages,Denver,CO
+L3 Technologies,"$11,002 ",$677.00 ,"$12,729 ","38,000",Aerospace &  Defense,Aerospace and Defense,New York,NY
+Ball,"$10,983 ",$374.00 ,"$17,169 ","18,300",Materials,"Packaging, Containers",Broomfield,CO
+AutoZone,"$10,889 ","$1,280.90 ","$9,260 ","70,035",Retailing,Specialty Retailers: Other,Memphis,TN
+Murphy USA,"$10,853 ",$245.30 ,"$2,331 ","6,900",Retailing,Specialty Retailers: Other,El Dorado,AR
+MGM Resorts International,"$10,774 ","$1,960.30 ","$29,159 ","68,500","Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",Las Vegas,NV
+Office Depot,"$10,752 ",$181.00 ,"$6,323 ","45,000",Retailing,Specialty Retailers: Other,Boca Raton,FL
+Huntsman,"$10,592 ",$636.00 ,"$10,244 ","10,000",Chemicals,Chemicals,The Woodlands,TX
+Baxter International,"$10,561 ",$717.00 ,"$17,111 ","47,000",Health Care,Medical Products and Equipment,Deerfield,IL
+Norfolk Southern,"$10,551 ","$5,404.00 ","$35,711 ","27,110",Transportation,Railroads,Norfolk,VA
+salesforce.com,"$10,480 ",$127.50 ,"$21,010 ","29,000",Technology,Computer Software,SF,CA
+Laboratory Corp. of America,"$10,441 ","$1,268.20 ","$16,568 ","60,000",Health Care,Health Care: Pharmacy and Other Services,Burlington,NC
+W.W. Grainger,"$10,425 ",$585.70 ,"$5,804 ","25,050",Wholesalers,Wholesalers: Diversified,Lake Forest,IL
+Qurate Retail,"$10,404 ","$2,441.00 ","$24,122 ","28,255",Retailing,Internet Services and Retailing,Englewood,CO
+Autoliv,"$10,383 ",$427.10 ,"$8,550 ","67,352",Motor Vehicles &  Parts,Motor Vehicles and Parts,Auburn Hills,MI
+Live Nation Entertainment,"$10,337 ",($6.00),"$7,504 ","15,050",Media,Entertainment,Beverly Hills,CA
+Xerox,"$10,265 ",$195.00 ,"$15,946 ","36,100",Technology,"Computers, Office Equipment",Norwalk,CT
+Leidos Holdings,"$10,170 ",$366.00 ,"$8,990 ","31,000",Technology,Information Technology Services,Reston,VA
+Corning,"$10,116 ",($497.00),"$27,494 ","46,200",Industrials,"Electronics, Electrical Equip.",Corning,NY
+Lithia Motors,"$10,087 ",$245.20 ,"$4,683 ","12,899",Retailing,"Automotive Retailing, Services",Medford,OR
+Expedia Group,"$10,060 ",$378.00 ,"$18,516 ","22,615",Retailing,Internet Services and Retailing,Bellevue,WA
+Republic Services,"$10,042 ","$1,278.40 ","$21,147 ","35,000",Business Services,Waste Management,Phoenix,AZ
+Jacobs Engineering Group,"$10,023 ",$293.70 ,"$7,381 ","49,750",Engineering &  Construction,"Engineering, Construction",Dallas,TX
+Sonic Automotive,"$9,867 ",$93.00 ,"$3,819 ","9,750",Retailing,"Automotive Retailing, Services",Charlotte,NC
+Ally Financial,"$9,866 ",$929.00 ,"$167,148 ","7,900",Financials,Diversified Financials,Detroit,MI
+LKQ,"$9,848 ",$533.70 ,"$9,367 ","43,000",Wholesalers,Wholesalers: Diversified,Chicago,IL
+BorgWarner,"$9,799 ",$439.90 ,"$9,788 ","29,000",Motor Vehicles &  Parts,Motor Vehicles and Parts,Auburn Hills,MI
+Fidelity National Financial,"$9,769 ",$771.00 ,"$9,151 ","24,525",Financials,Insurance: Property and Casualty (Stock),Jacksonville,FL
+SunTrust Banks,"$9,741 ","$2,273.00 ","$205,962 ","23,785",Financials,Commercial Banks,Atlanta,GA
+IQVIA Holdings,"$9,739 ","$1,309.00 ","$22,742 ",55000,Health Care,Health Care: Pharmacy and Other Services,Durham,NC
+Reliance Steel & Aluminum,"$9,721 ",$613.40 ,"$7,751 ","14,900",Materials,Metals,Los Angeles,CA
+Nvidia,"$9,714 ","$3,047.00 ","$11,241 ","11,528",Technology,Semiconductors and Other Electronic Components,Santa Clara,CA
+Voya Financial,"$9,660 ","($2,992.00)","$222,532 ","6,300",Financials,Diversified Financials,New York,NY
+CenterPoint Energy,"$9,614 ","$1,792.00 ","$22,736 ","7,977",Energy,Utilities: Gas and Electric,Houston,TX
+eBay,"$9,567 ","($1,016.00)","$25,981 ","14,100",Technology,Internet Services and Retailing,San Jose,CA
+Eastman Chemical,"$9,549 ","$1,384.00 ","$15,999 ","14,000",Chemicals,Chemicals,Kingsport,TN
+American Family Insurance Group,"$9,545 ",$155.60 ,"$24,233 ","11,307",Financials,Insurance: Property and Casualty (Stock),Madison,WI
+Steel Dynamics,"$9,539 ",$812.70 ,"$6,856 ","7,635",Materials,Metals,Fort Wayne,IN
+Pacific Life,"$9,510 ","$1,365.00 ","$157,877 ","3,578",Financials,"Insurance: Life, Health (stock)",Newport Beach,CA
+Chesapeake Energy,"$9,496 ",$949.00 ,"$12,425 ","3,200",Energy,"Mining, Crude-Oil Production",Oklahoma City,OK
+Mohawk Industries,"$9,491 ",$971.60 ,"$12,095 ","38,800",Household Products,"Home Equipment, Furnishings",Calhoun,GA
+Quanta Services,"$9,467 ",$315.00 ,"$6,480 ","32,800",Engineering &  Construction,"Engineering, Construction",Houston,TX
+Advance Auto Parts,"$9,374 ",$475.50 ,"$8,482 ","55,500",Retailing,Specialty Retailers: Other,Roanoke,VA
+Owens & Minor,"$9,318 ",$72.80 ,"$3,376 ","8,600",Wholesalers,Wholesalers: Health Care,Mechanicsville,VA
+United Natural Foods,"$9,275 ",$130.20 ,"$2,887 ","9,700",Wholesalers,Wholesalers: Food and Grocery,Providence,RI
+Tenneco,"$9,274 ",$207.00 ,"$4,842 ","32,000",Motor Vehicles &  Parts,Motor Vehicles and Parts,Lake Forest,IL
+Conagra Brands,"$9,235 ",$639.30 ,"$10,096 ","12,600","Food, Beverages &  Tobacco",Food Consumer Products,Chicago,IL
+GameStop,"$9,225 ",$34.70 ,"$5,042 ","39,500",Retailing,Specialty Retailers: Other,Grapevine,TX
+Hormel Foods,"$9,168 ",$846.70 ,"$6,976 ","20,200","Food, Beverages &  Tobacco",Food Consumer Products,Austin,MN
+Hilton Worldwide Holdings,"$9,140 ","$1,259.00 ","$14,308 ","163,000","Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",McLean,VA
+Frontier Communications,"$9,128 ","($1,804.00)","$24,884 ","22,736",Telecommunications,Telecommunications,Norwalk,CT
+Fidelity National Information Services,"$9,123 ","$1,319.00 ","$24,517 ","53,000",Business Services,Financial Data Services,Jacksonville,FL
+Public Service Enterprise Group,"$9,084 ","$1,574.00 ","$42,716 ","12,945",Energy,Utilities: Gas and Electric,Newark,NJ
+Boston Scientific,"$9,048 ",$104.00 ,"$19,042 ","29,000",Health Care,Medical Products and Equipment,Marlboro,MA
+OReilly Automotive,"$8,978 ","$1,133.80 ","$7,572 ","60,365",Retailing,Specialty Retailers: Other,Springfield,MO
+Charles Schwab,"$8,960 ","$2,354.00 ","$243,274 ","17,600",Financials,Securities,SF,CA
+Global Partners,"$8,921 ",$58.80 ,"$2,320 ","2,000",Wholesalers,Wholesalers: Diversified,Waltham,MA
+PVH,"$8,915 ",$537.80 ,"$11,886 ","28,050",Apparel,Apparel,New York,NY
+Avis Budget Group,"$8,848 ",$361.00 ,"$17,699 ","26,300",Retailing,"Automotive Retailing, Services",Parsippany-Troy Hills,NJ
+Targa Resources,"$8,815 ",$54.00 ,"$14,389 ","2,130",Energy,Pipelines,Houston,TX
+Hertz Global Holdings,"$8,803 ",$327.00 ,"$20,058 ","37,000",Retailing,"Automotive Retailing, Services",Estero,FL
+Calpine,"$8,752 ",($339.00),"$16,453 ","2,290",Energy,Energy,Houston,TX
+Mutual of Omaha Insurance,"$8,732 ",$862.60 ,"$42,429 ","5,896",Financials,"Insurance: Life, Health (stock)",Omaha,NE
+Crown Holdings,"$8,698 ",$323.00 ,"$10,663 ","24,342",Materials,"Packaging, Containers",Philadelphia,PA
+Peter Kiewit Sons,"$8,678 ",$371.00 ,"$5,710 ","22,000",Engineering &  Construction,"Engineering, Construction",Omaha,NE
+Dicks Sporting Goods,"$8,591 ",$323.40 ,"$4,204 ","30,300",Retailing,Specialty Retailers: Other,Coraopolis,PA
+PulteGroup,"$8,573 ",$447.20 ,"$9,687 ","4,810",Engineering &  Construction,Homebuilders,Atlanta,GA
+Navistar International,"$8,570 ",$30.00 ,"$6,135 ","11,400",Industrials,Construction and Farm Machinery,Lisle,IL
+Thrivent Financial for Lutherans,"$8,528 ",$558.40 ,"$95,001 ","3,622",Financials,"Insurance: Life, Health (Mutual)",Minneapolis,MN
+DCP Midstream,"$8,462 ",$229.00 ,"$13,878 ","2,650",Energy,Pipelines,Denver,CO
+Air Products & Chemicals,"$8,442 ","$3,000.40 ","$18,467 ","15,150",Chemicals,Chemicals,Allentown,PA
+Veritiv,"$8,365 ",($13.30),"$2,708 ","8,900",Wholesalers,Wholesalers: Diversified,Atlanta,GA
+AGCO,"$8,307 ",$186.40 ,"$7,972 ","20,462",Industrials,Construction and Farm Machinery,Duluth,GA
+Genworth Financial,"$8,295 ",$817.00 ,"$105,297 ","3,500",Financials,"Insurance: Life, Health (stock)",Richmond,VA
+Univar,"$8,254 ",$119.80 ,"$5,733 ","8,600",Wholesalers,Wholesalers: Diversified,Downers Grove,IL
+News Corp.,"$8,139 ",($738.00),"$14,552 ","26,000",Media,"Publishing, Printing",New York,NY
+SpartanNash,"$8,128 ",($52.80),"$2,056 ","11,950",Wholesalers,Wholesalers: Food and Grocery,Byron Center,MI
+Westlake Chemical,"$8,041 ","$1,304.00 ","$12,076 ","8,799",Chemicals,Chemicals,Houston,TX
+Williams,"$8,031 ","$2,174.00 ","$46,352 ","5,425",Energy,Energy,Tulsa,OK
+Lam Research,"$8,014 ","$1,697.80 ","$12,123 ","9,400",Technology,Semiconductors and Other Electronic Components,Fremont,CA
+Alaska Air Group,"$7,933 ","$1,034.00 ","$10,740 ","23,156",Transportation,Airlines,Seattle,WA
+Jones Lang LaSalle,"$7,932 ",$254.20 ,"$8,015 ","81,900",Financials,Real estate,Chicago,IL
+Anixter International,"$7,927 ",$109.00 ,"$4,252 ","8,900",Wholesalers,Wholesalers: Electronics and Office Equipment,Glenview,IL
+Campbell Soup,"$7,890 ",$887.00 ,"$7,726 ","18,000","Food, Beverages &  Tobacco",Food Consumer Products,Camden,NJ
+Interpublic Group,"$7,882 ",$579.00 ,"$12,695 ","50,200",Business Services,"Advertising, marketing",New York,NY
+Dover,"$7,830 ",$811.70 ,"$10,658 ","29,000",Industrials,Industrial Machinery,Downers Grove,IL
+Zimmer Biomet Holdings,"$7,824 ","$1,813.80 ","$25,965 ","18,200",Health Care,Medical Products and Equipment,Warsaw,IN
+Dean Foods,"$7,795 ",$61.60 ,"$2,504 ","16,000","Food, Beverages &  Tobacco",Food Consumer Products,Dallas,TX
+Foot Locker,"$7,782 ",$284.00 ,"$3,961 ","32,175",Retailing,Specialty Retailers: Apparel,New York,NY
+Eversource Energy,"$7,752 ",$988.00 ,"$36,220 ","8,084",Energy,Utilities: Gas and Electric,Springfield,MA
+Alliance Data Systems,"$7,719 ",$788.70 ,"$30,685 ","20,000",Business Services,Financial Data Services,Plano,TX
+Fifth Third Bancorp,"$7,713 ","$2,194.00 ","$142,193 ","18,125",Financials,Commercial Banks,Cincinnati,OH
+Quest Diagnostics,"$7,709 ",$772.00 ,"$10,503 ","45,000",Health Care,Health Care: Pharmacy and Other Services,Secaucus,NJ
+EMCOR Group,"$7,688 ",$227.20 ,"$3,966 ","32,000",Engineering &  Construction,"Engineering, Construction",Norwalk,CT
+W.R. Berkley,"$7,685 ",$549.10 ,"$24,300 ","7,722",Financials,Insurance: Property and Casualty (Stock),Greenwich,CT
+WESCO International,"$7,679 ",$163.50 ,"$4,736 ","9,100",Wholesalers,Wholesalers: Diversified,Pittsburgh,PA
+Coty,"$7,650 ",($422.20),"$22,548 ","22,000",Household Products,Household and Personal Products,New York,NY
+WEC Energy Group,"$7,649 ","$1,203.70 ","$31,591 ","8,129",Energy,Utilities: Gas and Electric,Milwaukee,WI
+Masco,"$7,644 ",$533.00 ,"$5,488 ","26,000",Household Products,"Home Equipment, Furnishings",Livonia,MI
+DXC Technology,"$7,607 ",($123.00),"$8,663 ","60,000",Technology,Information Technology Services,Tysons,VA
+Auto-Owners Insurance,"$7,604 ",$645.70 ,"$23,694 ","5,227",Financials,Insurance: Property and Casualty (Mutual),Lansing,MI
+Jones Financial (Edward Jones),"$7,597 ",$872.00 ,"$17,176 ",45000,Financials,Securities,Des Peres,MO
+Liberty Media,"$7,594 ","$1,354.00 ","$41,996 ","4,393",Media,Entertainment,Englewood,CO
+Erie Insurance Group,"$7,535 ",$857.50 ,"$20,670 ","5,260",Financials,Insurance: Property and Casualty (Mutual),Erie,PA
+Hershey,"$7,515 ",$783.00 ,"$5,554 ","16,135","Food, Beverages &  Tobacco",Food Consumer Products,Hershey,PA
+PPL,"$7,447 ","$1,128.00 ","$41,479 ","12,512",Energy,Utilities: Gas and Electric,Allentown,PA
+Huntington Ingalls Industries,"$7,441 ",$479.00 ,"$6,374 ","38,000",Aerospace &  Defense,Aerospace and Defense,Newport News,VA
+Mosaic,"$7,409 ",($107.20),"$18,633 ","8,500",Chemicals,Chemicals,Plymouth,MN
+J.M. Smucker,"$7,392 ",$592.30 ,"$15,640 ","7,140","Food, Beverages &  Tobacco",Food Consumer Products,Orrville,OH
+Delek US Holdings,"$7,350 ",$288.80 ,"$5,935 ","3,941",Energy,Petroleum Refining,Brentwood,TN
+Newmont Mining,"$7,348 ",($98.00),"$20,563 ","12,569",Energy,"Mining, Crude-Oil Production",Greenwood Village,CO
+Constellation Brands,"$7,332 ","$1,535.10 ","$18,602 ","8,700","Food, Beverages &  Tobacco",Beverages,Victor,NY
+Ryder System,"$7,330 ",$790.60 ,"$11,452 ","36,100",Transportation,"Trucking, Truck Leasing",Miami,FL
+National Oilwell Varco,"$7,304 ",($237.00),"$20,206 ","31,605",Energy,"Oil and Gas Equipment, Services",Houston,TX
+Adobe Systems,"$7,302 ","$1,694.00 ","$14,536 ","17,973",Technology,Computer Software,San Jose,CA
+LifePoint Health,"$7,263 ",$102.40 ,"$6,286 ","42,000",Health Care,Health Care: Medical Facilities,Brentwood,TN
+Tractor Supply,"$7,256 ",$422.60 ,"$2,869 ","21,000",Retailing,Specialty Retailers: Other,Brentwood,TN
+Thor Industries,"$7,247 ",$374.30 ,"$2,558 ","17,800",Motor Vehicles &  Parts,Motor Vehicles and Parts,Elkhart,IN
+Dana,"$7,209 ",$111.00 ,"$5,644 ","30,100",Motor Vehicles &  Parts,Motor Vehicles and Parts,Maumee,OH
+Weyerhaeuser,"$7,196 ",$582.00 ,"$18,059 ","9,300",Materials,Forest and Paper Products,Seattle,WA
+J.B. Hunt Transport Services,"$7,190 ",$686.30 ,"$4,465 ","24,681",Transportation,"Trucking, Truck Leasing",Lowell,AR
+Darden Restaurants,"$7,170 ",$479.10 ,"$5,504 ","178,729","Hotels, Restaurants &  Leisure",Food Services,Orlando,FL
+Yum China Holdings,"$7,144 ",$403.00 ,"$4,263 ","450,000","Hotels, Restaurants &  Leisure",Food Services,Plano,TX
+Blackstone Group,"$7,119 ","$1,470.80 ","$34,429 ","2,360",Financials,Diversified Financials,New York,NY
+Berry Global Group,"$7,095 ",$340.00 ,"$8,476 ","23,000",Materials,"Packaging, Containers",Evansville,IN
+Builders FirstSource,"$7,034 ",$38.80 ,"$3,006 ","15,000",Materials,"Building Materials, Glass",Dallas,TX
+Activision Blizzard,"$7,017 ",$273.00 ,"$18,668 ","9,800",Technology,Entertainment,Santa Monica,CA
+JetBlue Airways,"$7,015 ","$1,147.00 ","$9,781 ","17,424",Transportation,Airlines,,NY
+Amphenol,"$7,011 ",$650.50 ,"$10,004 ","70,000",Technology,Network and Other Communications Equipment,Wallingford,CT
+A-Mark Precious Metals,"$6,990 ",$7.10 ,$479 ,126,Materials,Miscellaneous,El Segundo,CA
+Spirit AeroSystems Holdings,"$6,983 ",$354.90 ,"$5,268 ","15,500",Aerospace &  Defense,Aerospace and Defense,Wichita,KS
+R.R. Donnelley & Sons,"$6,940 ",($34.40),"$3,905 ","42,700",Media,"Publishing, Printing",Chicago,IL
+Harris,"$6,939 ",$553.00 ,"$10,090 ","17,000",Aerospace &  Defense,Aerospace and Defense,Melbourne,FL
+Expeditors Intl. of Washington,"$6,921 ",$489.30 ,"$3,117 ","16,500",Transportation,Transportation and Logistics,Seattle,WA
+Discovery,"$6,873 ",($337.00),"$22,555 ","7,000",Media,Entertainment,Silver Spring,MD
+Owens-Illinois,"$6,869 ",$180.00 ,"$9,756 ","26,500",Materials,"Packaging, Containers",Perrysburg,OH
+Sanmina,"$6,869 ",$138.80 ,"$3,847 ","41,250",Technology,Semiconductors and Other Electronic Components,San Jose,CA
+KeyCorp,"$6,868 ","$1,296.00 ","$137,698 ","18,415",Financials,Commercial Banks,Cleveland,OH
+American Financial Group,"$6,865 ",$475.00 ,"$60,658 ","7,600",Financials,Insurance: Property and Casualty (Stock),Cincinnati,OH
+Oshkosh,"$6,830 ",$285.60 ,"$5,099 ","14,000",Industrials,Construction and Farm Machinery,Oshkosh,WI
+Rockwell Collins,"$6,822 ",$705.00 ,"$17,997 ","29,000",Aerospace &  Defense,Aerospace and Defense,Cedar Rapids,IA
+Kindred Healthcare,"$6,768 ",($698.40),"$5,233 ","64,200",Health Care,Health Care: Medical Facilities,Louisville,KY
+Insight Enterprises,"$6,704 ",$90.70 ,"$2,686 ","6,697",Technology,Information Technology Services,Tempe,AZ
+Dr Pepper Snapple Group,"$6,690 ","$1,076.00 ","$10,022 ","21,000","Food, Beverages &  Tobacco",Beverages,Plano,TX
+American Tower,"$6,664 ","$1,238.90 ","$33,214 ","4,752",Financials,Real estate,Boston,MA
+Fortive,"$6,656 ","$1,044.50 ","$10,501 ","26,000",Industrials,Industrial Machinery,Everett,WA
+Ralph Lauren,"$6,653 ",($99.30),"$5,652 ","18,250",Apparel,Apparel,New York,NY
+HRG Group,"$6,650 ",$106.00 ,"$35,850 ","17,113",Household Products,Household and Personal Products,New York,NY
+Ascena Retail Group,"$6,650 ","($1,067.30)","$3,872 ","40,000",Retailing,Specialty Retailers: Apparel,Mahwah,NJ
+United Rentals,"$6,641 ","$1,346.00 ","$15,030 ","14,800",Business Services,Miscellaneous,Stamford,CT
+Caseys General Stores,"$6,641 ",$177.50 ,"$3,020 ","25,463",Retailing,Specialty Retailers: Other,Ankeny,IA
+Graybar Electric,"$6,631 ",$71.60 ,"$2,261 ","8,500",Wholesalers,Wholesalers: Diversified,St. Louis,MO
+Avery Dennison,"$6,614 ",$281.80 ,"$5,137 ","30,000",Materials,"Packaging, Containers",Glendale,CA
+MasTec,"$6,607 ",$347.20 ,"$4,067 ","17,300",Engineering &  Construction,"Engineering, Construction",Coral Gables,FL
+CMS Energy,"$6,583 ",$460.00 ,"$23,050 ","7,887",Energy,Utilities: Gas and Electric,Jackson,MI
+HD Supply Holdings,"$6,534 ",$970.00 ,"$4,318 ","11,000",Wholesalers,Wholesalers: Diversified,Atlanta,GA
+Raymond James Financial,"$6,525 ",$636.20 ,"$34,884 ","12,700",Financials,Securities,St. Petersburg,FL
+NCR,"$6,516 ",$232.00 ,"$7,654 ","34,000",Technology,"Computers, Office Equipment",Atlanta,GA
+Hanesbrands,"$6,478 ",$61.90 ,"$6,895 ","67,200",Apparel,Apparel,Winston-Salem,NC
+Asbury Automotive Group,"$6,457 ",$139.10 ,"$2,357 ","8,000",Retailing,"Automotive Retailing, Services",Duluth,GA
+Citizens Financial Group,"$6,454 ","$1,652.00 ","$152,336 ","17,594",Financials,Commercial Banks,Providence,RI
+Packaging Corp. of America,"$6,445 ",$668.60 ,"$6,198 ","14,600",Materials,"Packaging, Containers",Lake Forest,IL
+Alleghany,"$6,425 ",$90.10 ,"$25,384 ","4,402",Financials,Insurance: Property and Casualty (Stock),New York,NY
+Apache,"$6,423 ","$1,304.00 ","$21,922 ","3,356",Energy,"Mining, Crude-Oil Production",Houston,TX
+Dillards,"$6,423 ",$221.30 ,"$3,673 ","31,400",Retailing,General Merchandisers,Little Rock,AR
+Assurant,"$6,415 ",$519.60 ,"$31,843 ","14,175",Financials,Insurance: Property and Casualty (Stock),New York,NY
+Franklin Resources,"$6,392 ","$1,696.70 ","$17,534 ","9,386",Financials,Securities,San Mateo,CA
+Owens Corning,"$6,384 ",$289.00 ,"$8,632 ","17,000",Materials,"Building Materials, Glass",Toledo,OH
+Motorola Solutions,"$6,380 ",($155.00),"$8,208 ","15,000",Technology,Network and Other Communications Equipment,Chicago,IL
+NVR,"$6,322 ",$537.50 ,"$2,989 ","5,200",Engineering &  Construction,Homebuilders,Reston,VA
+Rockwell Automation,"$6,311 ",$825.70 ,"$7,162 ","22,000",Industrials,"Electronics, Electrical Equip.",Milwaukee,WI
+TreeHouse Foods,"$6,307 ",($286.20),"$5,779 ","13,489","Food, Beverages &  Tobacco",Food Consumer Products,Oak Brook,IL
+Wynn Resorts,"$6,306 ",$747.20 ,"$12,682 ","25,200","Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",Las Vegas,NV
+Olin,"$6,268 ",$549.50 ,"$9,218 ","6,400",Chemicals,Chemicals,Clayton,MO
+American Axle & Manufacturing,"$6,266 ",$337.10 ,"$7,883 ","25,000",Motor Vehicles &  Parts,Motor Vehicles and Parts,Detroit,MI
+Old Republic International,"$6,263 ",$560.50 ,"$19,404 ","8,700",Financials,Insurance: Property and Casualty (Stock),Chicago,IL
+Chemours,"$6,183 ",$746.00 ,"$7,293 ","7,000",Chemicals,Chemicals,Wilmington,DE
+iHeartMedia,"$6,178 ",($704.40),"$12,257 ","18,700",Media,Entertainment,San Antonio,TX
+Ameren,"$6,177 ",$523.00 ,"$25,945 ","8,615",Energy,Utilities: Gas and Electric,St. Louis,MO
+Arthur J. Gallagher,"$6,160 ",$463.10 ,"$12,897 ","26,783",Financials,Diversified Financials,Rolling Meadows,IL
+Celanese,"$6,140 ",$843.00 ,"$9,538 ","7,592",Chemicals,Chemicals,Irving,TX
+Sealed Air,"$6,131 ",$814.90 ,"$5,280 ","15,000",Materials,"Packaging, Containers",Charlotte,NC
+UGI,"$6,121 ",$436.60 ,"$11,582 ","13,000",Energy,Energy,King of Prussia,PA
+Realogy Holdings,"$6,114 ",$431.00 ,"$7,337 ","11,800",Financials,Real estate,Madison,NJ
+Burlington Stores,"$6,110 ",$384.90 ,"$2,813 ","40,000",Retailing,Specialty Retailers: Apparel,Burlington,NJ
+Regions Financial,"$6,093 ","$1,263.00 ","$124,294 ","21,714",Financials,Commercial Banks,Birmingham,AL
+AK Steel Holding,"$6,081 ",$6.20 ,"$4,296 ","9,200",Materials,Metals,Beckett Ridge,OH
+Securian Financial Group,"$6,067 ",$418.90 ,"$51,232 ","5,000",Financials,"Insurance: Life, Health (stock)",St Paul,MN
+S& P Global,"$6,063 ","$1,496.00 ","$9,425 ","20,400",Business Services,Financial Data Services,New York,NY
+Markel,"$6,062 ",$395.30 ,"$32,805 ","15,600",Financials,Insurance: Property and Casualty (Stock),Glen Allen,VA
+TravelCenters of America,"$6,052 ",$9.30 ,"$1,618 ","19,611",Retailing,Specialty Retailers: Other,Westlake,OH
+Conduent,"$6,022 ",$181.00 ,"$7,548 ","90,000",Business Services,Diversified Outsourcing Services,Florham Park,NJ
+M& T Bank Corp.,"$6,019 ","$1,408.30 ","$118,594 ","16,354",Financials,Commercial Banks,Buffalo,NY
+Clorox,"$5,973 ",$701.00 ,"$4,573 ","8,100",Household Products,Household and Personal Products,Oakland,CA
+AmTrust Financial Services,"$5,959 ",($348.90),"$25,219 ","9,300",Financials,Insurance: Property and Casualty (Stock),New York,NY
+KKR,"$5,930 ","$1,018.30 ","$45,835 ","1,184",Financials,Securities,New York,NY
+Ulta Beauty,"$5,885 ",$555.20 ,"$2,909 ","24,200",Retailing,Specialty Retailers: Other,Bolingbrook,IL
+Yum Brands,"$5,878 ","$1,340.00 ","$5,311 ","60,000","Hotels, Restaurants &  Leisure",Food Services,Louisville,KY
+Regeneron Pharmaceuticals,"$5,872 ","$1,198.50 ","$8,764 ","6,200",Health Care,Pharmaceuticals,Tarrytown,NY
+Windstream Holdings,"$5,853 ","($2,116.60)","$11,084 ","12,979",Telecommunications,Telecommunications,Little Rock,AR
+Magellan Health,"$5,838 ",$110.20 ,"$2,957 ","10,700",Health Care,Health Care: Insurance and Managed Care,Scottsdale,AZ
+Western & Southern Financial,"$5,836 ",$310.40 ,"$46,395 ","2,226",Financials,"Insurance: Life, Health (Mutual)",Cincinnati,OH
+Intercontinental Exchange,"$5,834 ","$2,514.00 ","$78,264 ","4,952",Financials,Securities,Atlanta,GA
+Ingredion,"$5,832 ",$519.00 ,"$6,080 ","11,000","Food, Beverages &  Tobacco",Food Production,Westchester,IL
+Wyndham Destinations,"$5,821 ",$871.00 ,"$10,403 ","39,200","Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",Parsippany-Troy Hills,NJ
+Toll Brothers,"$5,815 ",$535.50 ,"$9,445 ","4,500",Engineering &  Construction,Homebuilders,Horsham,PA
+Seaboard,"$5,809 ",$247.00 ,"$5,161 ","11,800","Food, Beverages &  Tobacco",Food Production,Merriam,KS
+Booz Allen Hamilton,"$5,804 ",$252.50 ,"$3,373 ","23,300",Technology,Information Technology Services,McLean,VA
+First American Financial,"$5,772 ",$423.00 ,"$9,573 ","18,705",Financials,Insurance: Property and Casualty (Stock),Santa Ana,CA
+Cincinnati Financial,"$5,732 ","$1,045.00 ","$21,843 ","4,925",Financials,Insurance: Property and Casualty (Stock),Fairfield,OH
+Avon Products,"$5,716 ",$22.00 ,"$3,698 ","25,000",Household Products,Household and Personal Products,Rye,NY
+Northern Trust,"$5,716 ","$1,199.00 ","$138,591 ","18,100",Financials,Commercial Banks,Chicago,IL
+Fiserv,"$5,696 ","$1,246.00 ","$10,289 ","24,000",Business Services,Financial Data Services,Brookfield,WI
+Harley-Davidson,"$5,647 ",$521.80 ,"$9,973 ","5,800",Transportation,Transportation Equipment,Milwaukee,WI
+Cheniere Energy,"$5,601 ",($393.00),"$27,906 ","1,230",Energy,Energy,Houston,TX
+Patterson,"$5,593 ",$170.90 ,"$3,508 ","7,500",Wholesalers,Wholesalers: Health Care,St Paul,MN
+Peabody Energy,"$5,579 ",-,"$8,181 ","7,100",Energy,"Mining, Crude-Oil Production",St. Louis,MO
+ON Semiconductor,"$5,543 ",$810.70 ,"$7,195 ","34,000",Technology,Semiconductors and Other Electronic Components,Phoenix,AZ
+Simon Property Group,"$5,539 ","$1,948.00 ","$32,258 ","4,150",Financials,Real estate,Indianapolis,IN
+Western Union,"$5,524 ",($557.10),"$9,231 ","11,500",Business Services,Financial Data Services,Englewood,CO
+NetApp,"$5,519 ",$509.00 ,"$9,493 ","10,100",Technology,"Computers, Office Equipment",Sunnyvale,CA
+Polaris Industries,"$5,505 ",$172.50 ,"$3,090 ","11,000",Transportation,Transportation Equipment,Medina,MN
+Pioneer Natural Resources,"$5,455 ",$833.00 ,"$17,003 ","3,836",Energy,"Mining, Crude-Oil Production",Irving,TX
+ABM Industries,"$5,454 ",$3.80 ,"$3,813 ","140,000",Business Services,Diversified Outsourcing Services,New York,NY
+Vistra Energy,"$5,430 ",($254.00),"$14,600 ","4,150",Energy,Energy,Irving,TX
+Cintas,"$5,429 ",$480.70 ,"$6,844 ","42,000",Business Services,Diversified Outsourcing Services,Cincinnati,OH
+Hess,"$5,405 ","($4,074.00)","$23,112 ","2,075",Energy,"Mining, Crude-Oil Production",New York,NY
+Host Hotels & Resorts,"$5,387 ",$564.00 ,"$11,693 ",205,Financials,Real estate,Bethesda,MD
+Kelly Services,"$5,374 ",$71.60 ,"$2,378 ","7,800",Business Services,Temporary Help,Troy,MI
+Genesis Healthcare,"$5,374 ",($579.00),"$4,788 ","68,700",Health Care,Health Care: Medical Facilities,Kennett Square,PA
+Michaels Cos.,"$5,362 ",$390.50 ,"$2,300 ","30,500",Retailing,Specialty Retailers: Other,Irving,TX
+Advanced Micro Devices,"$5,329 ",$43.00 ,"$3,540 ","8,900",Technology,Semiconductors and Other Electronic Components,Santa Clara,CA
+Zoetis,"$5,307 ",$864.00 ,"$8,586 ","9,200",Health Care,Pharmaceuticals,Parsippany-Troy Hills,NJ
+Williams-Sonoma,"$5,292 ",$259.50 ,"$2,786 ","19,350",Retailing,Specialty Retailers: Other,SF,CA
+Fortune Brands Home & Security,"$5,283 ",$472.60 ,"$5,511 ","23,870",Household Products,"Home Equipment, Furnishings",Deerfield,IL
+Big Lots,"$5,271 ",$189.80 ,"$1,652 ","22,900",Retailing,Specialty Retailers: Other,Columbus,OH
+Robert Half International,"$5,267 ",$290.60 ,"$1,868 ","17,200",Business Services,Temporary Help,Menlo Park,CA
+Post Holdings,"$5,226 ",$48.30 ,"$11,877 ","11,410","Food, Beverages &  Tobacco",Food Consumer Products,St. Louis,MO
+Hasbro,"$5,210 ",$396.60 ,"$5,290 ","5,400",Household Products,"Toys, Sporting Goods",Pawtucket,RI
+Hanover Insurance Group,"$5,184 ",$186.20 ,"$15,470 ","4,600",Financials,Insurance: Property and Casualty (Stock),Worcester,MA
+Navient,"$5,179 ",$292.00 ,"$114,991 ","6,700",Financials,Diversified Financials,Wilmington,DE
+Intuit,"$5,177 ",$971.00 ,"$4,068 ","8,200",Technology,Computer Software,Mountain View,CA
+Domtar,"$5,157 ",($258.00),"$5,212 ","10,000",Materials,Forest and Paper Products,Fort Mill,SC
+Marathon Oil,"$5,153 ","($5,723.00)","$22,012 ","2,300",Energy,"Mining, Crude-Oil Production",Houston,TX
+Cerner,"$5,142 ",$867.00 ,"$6,469 ","26,000",Health Care,Health Care: Pharmacy and Other Services,North Kansas City,MO
+Analog Devices,"$5,108 ",$727.30 ,"$21,141 ","15,300",Technology,Semiconductors and Other Electronic Components,Norwood,MA
+Telephone & Data Systems,"$5,044 ",$153.00 ,"$9,295 ","9,900",Telecommunications,Telecommunications,Chicago,IL
+Essendant,"$5,037 ",($267.00),"$1,774 ","6,400",Wholesalers,Wholesalers: Electronics and Office Equipment,Deerfield,IL
+Sonoco Products,"$5,037 ",$175.30 ,"$4,558 ","21,000",Materials,"Packaging, Containers",Hartsville,SC
+Juniper Networks,"$5,027 ",$306.20 ,"$9,834 ","9,381",Technology,Network and Other Communications Equipment,Sunnyvale,CA
+Commercial Metals,"$4,999 ",$46.30 ,"$2,975 ","8,797",Materials,Metals,Irving,TX
+CSRA,"$4,993 ",$304.00 ,"$4,888 ","18,500",Technology,Information Technology Services,Falls Church,VA
+Under Armour,"$4,977 ",($48.30),"$4,006 ","11,350",Apparel,Apparel,Baltimore,MD
+RPM International,"$4,958 ",$181.80 ,"$5,090 ","14,318",Chemicals,Chemicals,Medina,OH
+Total System Services,"$4,928 ",$586.20 ,"$6,332 ","11,800",Business Services,Financial Data Services,Columbus,GA
+Levi Strauss,"$4,904 ",$281.40 ,"$3,355 ","13,800",Apparel,Apparel,SF,CA
+Brunswick,"$4,898 ",$146.40 ,"$3,358 ","15,116",Transportation,Transportation Equipment,Libertyville,IL
+YRC Worldwide,"$4,891 ",($10.80),"$1,586 ","32,000",Transportation,"Trucking, Truck Leasing",Overland Park,KS
+Mattel,"$4,882 ","($1,053.80)","$6,239 ","28,000",Household Products,"Toys, Sporting Goods",El Segundo,CA
+FM Global,"$4,875 ",$254.10 ,"$23,247 ","5,441",Financials,Insurance: Property and Casualty (Stock),Johnston,RI
+NiSource,"$4,875 ",$128.50 ,"$19,962 ","8,175",Energy,Utilities: Gas and Electric,Merrillville,IN
+Caesars Entertainment,"$4,852 ",($375.00),"$25,512 ","65,000","Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",Las Vegas,NV
+Electronic Arts,"$4,845 ",$967.00 ,"$7,718 ","8,800",Technology,Entertainment,Redwood City,CA
+Dynegy,"$4,842 ",$76.00 ,"$11,771 ","2,489",Energy,Energy,Houston,TX
+McCormick,"$4,834 ",$477.40 ,"$10,386 ","11,700","Food, Beverages &  Tobacco",Food Consumer Products,Sparks Glencoe,MD
+T. Rowe Price,"$4,793 ","$1,497.80 ","$7,535 ","6,881",Financials,Securities,Baltimore,MD
+Orbital ATK,"$4,764 ",$310.00 ,"$5,666 ","13,900",Aerospace &  Defense,Aerospace and Defense,Sterling,VA
+Tutor Perini,"$4,757 ",$148.40 ,"$4,264 ","10,061",Engineering &  Construction,"Engineering, Construction",Los Angeles,CA
+Brookdale Senior Living,"$4,747 ",($571.40),"$7,675 ","62,550",Health Care,Health Care: Medical Facilities,Brentwood,TN
+Huntington Bancshares,"$4,740 ","$1,186.00 ","$104,185 ","15,770",Financials,Commercial Banks,Columbus,OH
+Wayfair,"$4,721 ",($244.60),"$1,213 ","7,751",Technology,Internet Services and Retailing,Boston,MA
+Rush Enterprises,"$4,714 ",$172.10 ,"$2,890 ","6,825",Retailing,"Automotive Retailing, Services",New Braunfels,TX
+Xylem,"$4,707 ",$331.00 ,"$6,860 ","16,200",Industrials,Industrial Machinery,Rye Brook,NY
+Neiman Marcus Group,"$4,706 ",($531.80),"$7,704 ","13,700",Retailing,Specialty Retailers: Apparel,Dallas,TX
+Hyatt Hotels,"$4,685 ",$249.00 ,"$7,672 ","45,000","Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",Chicago,IL
+Sprouts Farmers Market,"$4,665 ",$158.40 ,"$1,582 ","27,000",Food &  Drug Stores,Food and Drug Stores,Phoenix,AZ
+Diebold Nixdorf,"$4,609 ",($233.10),"$5,250 ","23,000",Technology,"Computers, Office Equipment",North Canton,OH
+Roper Technologies,"$4,608 ",$971.80 ,"$14,316 ","14,236",Technology,"Scientific,Photographic and  Control Equipment",Sarasota,FL
+Smart & Final Stores,"$4,571 ",($138.90),"$1,810 ","7,570",Food &  Drug Stores,Food and Drug Stores,Commerce,CA
+CommScope Holding,"$4,561 ",$193.80 ,"$7,042 ","20,000",Technology,Network and Other Communications Equipment,Newton,NC
+Tapestry,"$4,488.30 ",$591.00 ,"$5,831.60 ",12450,Apparel,Apparel,New York City,NY
+Diplomat Pharmacy,"$4,485 ",$15.50 ,"$1,940 ","2,298",Health Care,Health Care: Pharmacy and Other Services,Flint,MI
+Chipotle Mexican Grill,"$4,476 ",$176.30 ,"$2,046 ","68,890","Hotels, Restaurants &  Leisure",Food Services,Denver,CO
+Agilent Technologies,"$4,472 ",$684.00 ,"$8,426 ","13,500",Technology,"Scientific,Photographic and  Control Equipment",Santa Clara,CA
+Science Applications International,"$4,454 ",$179.00 ,"$2,073 ","15,391",Technology,Information Technology Services,Reston,VA
+MDU Resources Group,"$4,444 ",$281.20 ,"$6,335 ","10,140",Energy,Energy,Bismarck,ND
+Select Medical Holdings,"$4,444 ",$177.20 ,"$5,127 ","36,050",Health Care,Health Care: Medical Facilities,Mechanicsburg,PA
+Boise Cascade,"$4,432 ",$83.00 ,"$1,607 ","6,370",Wholesalers,Wholesalers: Diversified,Boise,ID
+National General Holdings,"$4,431 ",$105.80 ,"$8,440 ","7,570",Financials,Insurance: Property and Casualty (Stock),New York,NY
+SCANA,"$4,407 ",($119.00),"$18,739 ","5,228",Energy,Utilities: Gas and Electric,Cayce,SC
+Graphic Packaging Holding,"$4,404 ",$300.20 ,"$4,863 ","13,000",Materials,"Packaging, Containers",Atlanta,GA
+Fastenal,"$4,391 ",$578.60 ,"$2,911 ","20,565",Wholesalers,Wholesalers: Diversified,Winona,MN
+Schneider National,"$4,384 ",$389.90 ,"$3,331 ","19,600",Transportation,"Trucking, Truck Leasing",Green Bay,WI
+Laureate Education,"$4,378 ",$91.50 ,"$7,392 ","54,500",Business Services,Education,Baltimore,MD
+Beacon Roofing Supply,"$4,377 ",$100.90 ,"$3,450 ","5,406",Wholesalers,Wholesalers: Diversified,Herndon,VA
+KB Home,"$4,369 ",$180.60 ,"$5,042 ","1,915",Engineering &  Construction,Homebuilders,Los Angeles,CA
+Equinix,"$4,368 ",$233.00 ,"$18,692 ","7,273",Financials,Real estate,Redwood City,CA
+Terex,"$4,363 ",$128.70 ,"$3,463 ","10,700",Industrials,Construction and Farm Machinery,Westport,CT
+Crown Castle International,"$4,356 ",$444.60 ,"$32,230 ","4,500",Financials,Real estate,Houston,TX
+CACI International,"$4,355 ",$163.70 ,"$3,911 ","18,600",Technology,Information Technology Services,Arlington,VA
+Watsco,"$4,342 ",$208.20 ,"$2,047 ","5,200",Wholesalers,Wholesalers: Diversified,Miami,FL
+Coca-Cola Bottling,"$4,324 ",$96.50 ,"$3,073 ","15,500","Food, Beverages &  Tobacco",Beverages,Charlotte,NC
+Welltower,"$4,317 ",$522.80 ,"$27,944 ",392,Financials,Real estate,Toledo,OH
+ADT,"$4,316 ",$342.60 ,"$17,015 ","18,000",Business Services,Diversified Outsourcing Services,Boca Raton,FL
+Ametek,"$4,300 ",$681.50 ,"$7,796 ","16,900",Technology,"Scientific,Photographic and  Control Equipment",Berwyn,PA
+CNO Financial Group,"$4,297 ",$175.60 ,"$33,110 ","3,300",Financials,"Insurance: Life, Health (stock)",Carmel,IN
+Camping World Holdings,"$4,285 ",$28.40 ,"$2,562 ","10,227",Retailing,"Automotive Retailing, Services",Lincolnshire,IL
+LPL Financial Holdings,"$4,282 ",$238.90 ,"$5,359 ","3,736",Financials,Securities,Boston,MA
+Noble Energy,"$4,256 ","($1,118.00)","$21,476 ","2,277",Energy,"Mining, Crude-Oil Production",Houston,TX
+Bloomin Brands,"$4,213 ",$100.20 ,"$2,573 ","94,000","Hotels, Restaurants &  Leisure",Food Services,Tampa,FL
+Moodys,"$4,204 ","$1,000.60 ","$8,594 ","11,896",Business Services,Financial Data Services,New York,NY
+Symantec,"$4,191 ",($106.00),"$18,174 ","13,000",Technology,Computer Software,Mountain View,CA
+Amkor Technology,"$4,187 ",$260.70 ,"$4,522 ","29,300",Technology,Semiconductors and Other Electronic Components,Tempe,AZ
+Skechers U.S.A.,"$4,181 ",$179.20 ,"$2,735 ","8,150",Apparel,Apparel,Manhattan Beach,CA
+KBR,"$4,171 ",$434.00 ,"$3,674 ","20,000",Engineering &  Construction,"Engineering, Construction",Houston,TX
+Tiffany,"$4,170 ",$370.10 ,"$5,468 ","13,100",Retailing,Specialty Retailers: Other,New York,NY
+Torchmark,"$4,156 ","$1,454.50 ","$23,475 ","3,102",Financials,"Insurance: Life, Health (stock)",McKinney,TX
+Broadridge Financial Solutions,"$4,143 ",$326.80 ,"$3,150 ","10,000",Business Services,Financial Data Services,Lake Success,NY
+Quad/Graphics,"$4,131.40 ",$107.20 ,"$2,452.40 ",21100,Media,"Publishing, Printing",Sussex,WI
+CF Industries Holdings,"$4,130 ",$357.70 ,"$13,463 ","2,950",Chemicals,Chemicals,Deerfield,IL
+Carlisle,"$4,090 ",$365.50 ,"$5,300 ","14,800",Materials,"Building Materials, Glass",Scottsdale,AZ
+Silgan Holdings,"$4,090 ",$269.70 ,"$4,645 ","12,515",Materials,"Packaging, Containers",Stamford,CT
+Bemis,"$4,046 ",$94.00 ,"$3,700 ","16,582",Materials,"Packaging, Containers",Neenah,WI
+CA,"$4,036 ",$775.00 ,"$12,610 ","11,800",Technology,Computer Software,New York,NY
+Hub Group,"$4,035 ",$135.20 ,"$1,671 ","4,377",Transportation,Transportation and Logistics,Oak Brook,IL
+Worldpay,"$4,027 ",$130.10 ,"$8,667 ","3,560",Business Services,Financial Data Services,Cincinnati,OH
+Ingles Markets,"$4,003 ",$53.90 ,"$1,733 ","17,250",Food &  Drug Stores,Food and Drug Stores,Black Mountain,NC
+Snap-on,"$4,000 ",$557.70 ,"$5,249 ","12,600",Industrials,Industrial Machinery,Kenosha,WI
+Dentsply Sirona,"$3,993 ","($1,550.00)","$10,375 ","16,100",Health Care,Medical Products and Equipment,York,PA
+Calumet Specialty Products,"$3,992 ",($103.80),"$2,689 ","1,600",Energy,Petroleum Refining,Indianapolis,IN
+Global Payments,"$3,975 ",$468.40 ,"$12,998 ","10,000",Business Services,Financial Data Services,Atlanta,GA
+Encompass Health,"$3,971.40 ",$256.30 ,"$4,893.70 ",30935,Health Care,Health Care: Medical Facilities,Birmingham,AL
+Martin Marietta Materials,"$3,966 ",$713.30 ,"$8,993 ","8,406",Materials,"Building Materials, Glass",Raleigh,NC
+Nasdaq,"$3,965 ",$734.00 ,"$15,786 ","4,734",Financials,Securities,New York,NY
+Leggett & Platt,"$3,944 ",$292.60 ,"$3,551 ","22,200",Household Products,"Home Equipment, Furnishings",Carthage,MO
+Universal Forest Products,"$3,941 ",$119.50 ,"$1,465 ","10,000",Materials,"Building Materials, Glass",Grand Rapids,MI
+Sally Beauty Holdings,"$3,938 ",$215.10 ,"$2,123 ","21,755",Retailing,Specialty Retailers: Other,Denton,TX
+Flowers Foods,"$3,921 ",$150.10 ,"$2,660 ","9,800","Food, Beverages &  Tobacco",Food Consumer Products,Thomasville,GA
+Barnes & Noble,"$3,895 ",$22.00 ,"$1,933 ","18,592",Retailing,Specialty Retailers: Other,New York,NY
+American Equity Investment Life,"$3,892 ",$174.60 ,"$62,031 ",515,Financials,"Insurance: Life, Health (stock)",West Des Moines,IA
+Vulcan Materials,"$3,890 ",$601.20 ,"$9,505 ","8,287",Materials,"Building Materials, Glass",Birmingham,AL
+Taylor Morrison Home,"$3,885 ",$91.20 ,"$4,326 ","1,800",Engineering &  Construction,Homebuilders,Scottsdale,AZ
+Westinghouse Air Brake,"$3,882 ",$262.30 ,"$6,580 ","18,000",Industrials,Industrial Machinery,Wilmerding,PA
+Crestwood Equity Partners,"$3,881 ",($191.90),"$4,285 ",954,Energy,Energy,Houston,TX
+Iron Mountain,"$3,846 ",$183.80 ,"$10,972 ","24,000",Business Services,Diversified Outsourcing Services,Boston,MA
+Lennox International,"$3,840 ",$305.70 ,"$1,892 ","11,450",Industrials,Industrial Machinery,Richardson,TX
+General Cable,"$3,837 ",($56.60),"$2,235 ","8,500",Industrials,"Electronics, Electrical Equip.",Highland Heights,KY
+American Eagle Outfitters,"$3,796 ",$204.20 ,"$1,816 ","24,100",Retailing,Specialty Retailers: Apparel,Pittsburgh,PA
+Church & Dwight,"$3,776 ",$743.40 ,"$6,015 ","4,700",Household Products,Household and Personal Products,Ewing Township,NJ
+Platform Specialty Products,"$3,776 ",($296.20),"$10,252 ","7,850",Chemicals,Chemicals,West Palm Beach,FL
+JELD-WEN Holding,"$3,764 ",$10.80 ,"$2,863 ","21,000",Materials,"Building Materials, Glass",Charlotte,NC
+OneMain Holdings,"$3,756 ",$183.00 ,"$19,433 ","10,100",Financials,Diversified Financials,Evansville,IN
+Colfax,"$3,737 ",$151.10 ,"$6,710 ","14,300",Industrials,Industrial Machinery,Annapolis Junction,MD
+Zebra Technologies,"$3,722 ",$17.00 ,"$4,275 ","7,000",Industrials,"Electronics, Electrical Equip.",Lincolnshire,IL
+Andersons,"$3,686 ",$42.50 ,"$2,162 ","1,819","Food, Beverages &  Tobacco",Food Production,Maumee,OH
+TD Ameritrade Holding,"$3,685 ",$872.00 ,"$38,627 ","10,412",Financials,Securities,Omaha,NE
+Carlyle Group,"$3,676 ",$244.10 ,"$12,281 ","1,600",Financials,Securities,Leavenworth,WA
+Hubbell,"$3,669 ",$243.10 ,"$3,721 ","17,700",Industrials,"Electronics, Electrical Equip.",Shelton,CT
+Trinity Industries,"$3,663 ",$702.50 ,"$9,543 ","15,605",Transportation,Transportation Equipment,Dallas,TX
+Darling Ingredients,"$3,662 ",$128.50 ,"$4,958 ","9,800","Food, Beverages &  Tobacco",Food Production,Irving,TX
+Flowserve,"$3,661 ",$2.70 ,"$4,911 ","17,000",Industrials,Industrial Machinery,Irving,TX
+Antero Resources,"$3,656 ",$615.10 ,"$15,262 ",593,Energy,"Mining, Crude-Oil Production",Denver,CO
+Skyworks Solutions,"$3,651 ","$1,010.20 ","$4,574 ","8,400",Technology,Semiconductors and Other Electronic Components,Woburn,MA
+Landstar System,"$3,649 ",$177.10 ,"$1,353 ","1,273",Transportation,"Trucking, Truck Leasing",Jacksonville,FL
+Buckeye Partners,"$3,648 ",$478.80 ,"$10,305 ","1,870",Energy,Pipelines,Houston,TX
+MRC Global,"$3,646 ",$50.00 ,"$2,340 ","3,580",Energy,"Oil and Gas Equipment, Services",Houston,TX
+CME Group,"$3,645 ","$4,063.40 ","$75,791 ","2,830",Financials,Securities,Chicago,IL
+Greif,"$3,638 ",$118.60 ,"$3,232 ","13,000",Materials,"Packaging, Containers",Delaware,OH
+Nexeo Solutions,"$3,637 ",$14.40 ,"$2,254 ","2,640",Wholesalers,Wholesalers: Diversified,The Woodlands,TX
+Cooper-Standard Holdings,"$3,618 ",$135.30 ,"$2,726 ","32,000",Motor Vehicles &  Parts,Motor Vehicles and Parts,Novi,MI
+Urban Outfitters,"$3,616 ",$108.30 ,"$1,953 ","16,330",Retailing,Specialty Retailers: Apparel,Philadelphia,PA
+LSC Communications,"$3,603 ",($57.00),"$2,014 ","24,000",Media,"Publishing, Printing",Chicago,IL
+Sabre,"$3,599 ",$242.50 ,"$5,649 ","9,000",Technology,Internet Services and Retailing,Southlake,TX
+Green Plains,"$3,596 ",$61.10 ,"$2,785 ","1,427",Energy,Energy,Omaha,NE
+Hexion,"$3,591 ",($234.00),"$2,097 ","4,300",Chemicals,Chemicals,Columbus,OH
+Stericycle,"$3,581 ",$42.40 ,"$6,988 ","23,200",Business Services,Waste Management,Lake Forest,IL
+Warner Music Group,"$3,576 ",$143.00 ,"$5,718 ","4,520",Media,Entertainment,New York,NY
+Ventas,"$3,574 ","$1,356.50 ","$23,955 ",493,Financials,Real estate,Chicago,IL
+ScanSource,"$3,568 ",$69.20 ,"$1,718 ","2,000",Wholesalers,Wholesalers: Electronics and Office Equipment,Greenville,SC
+Pinnacle West Capital,"$3,565 ",$488.50 ,"$17,019 ","6,292",Energy,Utilities: Gas and Electric,Phoenix,AZ
+Scripps Networks Interactive,"$3,562 ",$623.90 ,"$6,522 ","3,600",Media,Entertainment,Knoxville,TN
+Alexion Pharmaceuticals,"$3,551 ",$443.30 ,"$13,583 ","2,525",Health Care,Pharmaceuticals,New Haven,CT
+Pitney Bowes,"$3,550 ",$261.30 ,"$6,679 ","14,700",Technology,"Computers, Office Equipment",Stamford,CT
+CIT Group,"$3,545 ",$468.20 ,"$49,279 ","4,167",Financials,Commercial Banks,New York,NY
+Country Financial,"$3,542 ",$187.30 ,"$14,664 ","3,834",Financials,Insurance: Property and Casualty (Mutual),Bloomington,IL
+CUNA Mutual Group,"$3,541 ",$303.20 ,"$20,595 ","3,300",Financials,"Insurance: Life, Health (stock)",Madison,WI
+Triumph Group,"$3,533 ",($43.00),"$4,415 ","14,309",Aerospace &  Defense,Aerospace and Defense,Berwyn,PA
+TransDigm Group,"$3,529 ",$596.90 ,"$9,976 ","9,200",Aerospace &  Defense,Aerospace and Defense,Cleveland,OH
+Allegheny Technologies,"$3,525 ",($91.90),"$5,185 ","8,600",Materials,Metals,Pittsburgh,PA
+Resolute Forest Products,"$3,513 ",($84.00),"$4,147 ","7,700",Materials,Forest and Paper Products,Catawba,SC
+Acuity Brands,"$3,505 ",$321.70 ,"$2,900 ","12,500",Industrials,"Electronics, Electrical Equip.",Atlanta,GA
+Abercrombie & Fitch,"$3,493 ",$7.10 ,"$2,326 ","22,500",Retailing,Specialty Retailers: Apparel,New Albany,OH
+KLA-Tencor,"$3,480 ",$926.10 ,"$5,532 ","5,990",Technology,Semiconductors and Other Electronic Components,Milpitas,CA
+Weis Markets,"$3,467 ",$98.40 ,"$1,442 ","23,000",Food &  Drug Stores,Food and Drug Stores,Sunbury,PA
+Puget Energy,"$3,460 ",$175.20 ,"$13,691 ","3,140",Energy,Utilities: Gas and Electric,Bellevue,WA
+Mednax,"$3,458 ",$320.40 ,"$5,867 ","14,000",Health Care,Health Care: Pharmacy and Other Services,Fort Lauderdale,FL
+Kar Auction Services,"$3,458 ",$362.00 ,"$6,984 ","15,488",Wholesalers,Wholesalers: Diversified,Carmel,IN
+PolyOne,"$3,452 ",($57.70),"$2,705 ","6,400",Chemicals,Chemicals,Avon Lake,OH
+FMC,"$3,442 ",$535.80 ,"$9,206 ","7,000",Chemicals,Chemicals,Philadelphia,PA
+Edwards Lifesciences,"$3,435 ",$583.60 ,"$5,696 ","12,200",Health Care,Medical Products and Equipment,Irvine,CA
+Microchip Technology,"$3,426 ",$164.60 ,"$7,687 ","12,656",Technology,Semiconductors and Other Electronic Components,Chandler,AZ
+Amerco,"$3,422 ",$398.40 ,"$9,406 ","20,376",Transportation,"Trucking, Truck Leasing",Reno,NV
+Mercury General,"$3,416 ",$144.90 ,"$5,101 ","4,300",Financials,Insurance: Property and Casualty (Stock),Los Angeles,CA
+American National Insurance,"$3,411 ",$493.70 ,"$26,387 ","4,621",Financials,"Insurance: Life, Health (stock)",Galveston,TX
+Carters,"$3,400 ",$302.80 ,"$2,068 ","20,900",Apparel,Apparel,Atlanta,GA
+International Flavors & Fragrances,"$3,399 ",$295.70 ,"$4,599 ","7,300",Chemicals,Chemicals,New York,NY
+Aarons,"$3,384 ",$292.50 ,"$2,692 ","11,900",Retailing,Specialty Retailers: Other,Atlanta,GA
+Alliant Energy,"$3,382 ",$457.30 ,"$14,188 ","3,989",Energy,Utilities: Gas and Electric,Madison,WI
+EQT,"$3,378 ","$1,508.50 ","$29,523 ","2,067",Energy,Energy,Pittsburgh,PA
+Monster Beverage,"$3,369 ",$820.70 ,"$4,791 ","2,589","Food, Beverages &  Tobacco",Beverages,Corona,CA
+BMC Stock Holdings,"$3,366 ",$57.40 ,"$1,473 ","9,100",Wholesalers,Wholesalers: Diversified,Atlanta,GA
+Ryerson Holding,"$3,365 ",$17.10 ,"$1,712 ","3,600",Materials,Metals,Chicago,IL
+Equifax,"$3,362 ",$587.30 ,"$7,233 ","10,300",Business Services,Financial Data Services,Atlanta,GA
+Regal Beloit,"$3,360 ",$213.00 ,"$4,388 ","23,600",Industrials,"Electronics, Electrical Equip.",Beloit,WI
+Old Dominion Freight Line,"$3,358 ",$463.80 ,"$3,068 ","19,183",Transportation,"Trucking, Truck Leasing",Thomasville,NC
+American Water Works,"$3,357 ",$426.00 ,"$19,482 ","6,900",Energy,Miscellaneous,Voorhees Township,NJ
+BGC Partners,"$3,353 ",$51.50 ,"$5,457 ","9,238",Financials,Securities,New York,NY
+Brinks,"$3,347 ",$16.70 ,"$3,060 ","62,150",Business Services,Diversified Outsourcing Services,Richmond,VA
+Meritor,"$3,347 ",$16.70 ,"$3,060 ","62,150",Business Services,Diversified Outsourcing Services,Richmond,VA
+Sentry Insurance Group,"$3,346 ",$288.50 ,"$17,302 ","4,139",Financials,Insurance: Property and Casualty (Mutual),Stevens Point,WI
+Sanderson Farms,"$3,342 ",$279.70 ,"$1,733 ","14,669","Food, Beverages &  Tobacco",Food Production,Laurel,MS
+KapStone Paper & Packaging,"$3,316 ",$243.50 ,"$3,324 ","6,400",Materials,"Packaging, Containers",Northbrook,IL
+Gartner,"$3,312 ",$3.30 ,"$7,283 ","15,131",Technology,Information Technology Services,Stamford,CT
+IAC/InterActiveCorp,"$3,307.20 ",$304.90 ,"$5,867.80 ",7000,Technology,Internet Services and Retailing,New York City,NY
+Tailored Brands,"$3,304 ",$96.70 ,"$2,000 ","18,200",Retailing,Specialty Retailers: Apparel,Houston,TX
+WABCO Holdings,"$3,304 ",$406.10 ,"$4,323 ","14,631",Motor Vehicles &  Parts,Motor Vehicles and Parts,Rochester Hills,MI
+Insperity,"$3,300 ",$84.40 ,"$1,064 ","2,900",Business Services,Diversified Outsourcing Services,Houston,TX
+Comerica,"$3,289 ",$743.00 ,"$71,567 ","7,999",Financials,Commercial Banks,Dallas,TX
+TriNet Group,"$3,275 ",$178.00 ,"$2,593 ","2,700",Business Services,Diversified Outsourcing Services,San Leandro,CA
+Avaya Holdings,"$3,272 ",-,"$5,898 ","8,700",Technology,Information Technology Services,Santa Clara,CA
+Ashland Global Holdings,"$3,260 ",$1.00 ,"$8,618 ","6,500",Chemicals,Chemicals,Covington,KY
+Meritage Homes,"$3,241 ",$143.30 ,"$3,251 ","1,605",Engineering &  Construction,Homebuilders,Scottsdale,AZ
+SkyWest,"$3,204 ",$428.90 ,"$5,458 ","16,300",Transportation,Airlines,St. George,UT
+USG,"$3,204 ",$88.00 ,"$3,851 ","6,800",Materials,"Building Materials, Glass",Chicago,IL
+Southwestern Energy,"$3,203 ","$1,046.00 ","$7,521 ","1,575",Energy,"Mining, Crude-Oil Production",Spring,TX
+Keysight Technologies,"$3,189 ",$102.00 ,"$5,933 ","12,600",Technology,"Scientific,Photographic and  Control Equipment",Santa Rosa,CA
+Regal Entertainment Group,"$3,163 ",$112.30 ,"$2,843 ","26,047",Media,Entertainment,Knoxville,TN
+Mutual of America Life Insurance,"$3,163 ",$26.20 ,"$21,194 ","1,079",Financials,"Insurance: Life, Health (Mutual)",New York,NY
+Paychex,"$3,151 ",$817.30 ,"$6,834 ","13,700",Business Services,Diversified Outsourcing Services,Rochester,NY
+Brinker International,"$3,151 ",$150.80 ,"$1,414 ","57,906","Hotels, Restaurants &  Leisure",Food Services,Dallas,TX
+Penn National Gaming,"$3,148 ",$473.50 ,"$5,235 ","18,754","Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",Wyomissing,PA
+Gannett,"$3,147 ",$6.90 ,"$2,570 ","19,000",Media,"Publishing, Printing",McLean,VA
+Visteon,"$3,146 ",$176.00 ,"$2,304 ","10,000",Motor Vehicles &  Parts,Motor Vehicles and Parts,Van Buren Charter Township,MI
+Pinnacle Foods,"$3,144 ",$532.00 ,"$6,578 ","4,900","Food, Beverages &  Tobacco",Food Consumer Products,Parsippany-Troy Hills,NJ
+Intuitive Surgical,"$3,129 ",$660.00 ,"$5,758 ","4,444",Health Care,Medical Products and Equipment,Sunnyvale,CA
+Continental Resources,"$3,121 ",$789.40 ,"$14,200 ","1,127",Energy,"Mining, Crude-Oil Production",Oklahoma City,OK
+Service Corp. International,"$3,095 ",$546.70 ,"$12,865 ","19,468",Business Services,Miscellaneous,Houston,TX
+Scientific Games,"$3,084 ",($242.30),"$7,725 ","8,600","Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",Las Vegas,NV
+Albemarle,"$3,072 ",$54.90 ,"$7,751 ","5,400",Chemicals,Chemicals,Charlotte,NC
+Atmos Energy,"$3,063 ",$396.40 ,"$10,750 ","4,565",Energy,Utilities: Gas and Electric,Dallas,TX
+Hologic,"$3,059 ",$755.50 ,"$7,980 ","6,233",Health Care,Medical Products and Equipment,Marlboro,MA
+H& R Block,"$3,036 ",$408.90 ,"$2,694 ","44,900",Financials,Diversified Financials,KCMO,MO
+Qorvo,"$3,033 ",($16.60),"$6,522 ","8,600",Technology,Semiconductors and Other Electronic Components,Greensboro,NC
+Steelcase,"$3,032 ",$124.60 ,"$1,792 ","12,650",Household Products,"Home Equipment, Furnishings",Grand Rapids,MI
+Univision Communications,"$3,016 ",$654.90 ,"$9,599 ","4,500",Media,Entertainment,New York,NY
+Worthington Industries,"$3,014 ",$204.50 ,"$2,325 ","10,000",Materials,Metals,Columbus,OH
+Timken,"$3,004 ",$203.40 ,"$3,402 ","15,006",Industrials,Industrial Machinery,North Canton,OH
+A.O. Smith,"$2,997 ",$296.50 ,"$3,197 ","16,100",Industrials,"Electronics, Electrical Equip.",Milwaukee,WI
+PriceSmart,"$2,997 ",$90.70 ,"$1,178 ","7,903",Retailing,General Merchandisers,San Diego,CA
+Stifel Financial,"$2,997 ",$182.90 ,"$21,384 ","7,100",Financials,Securities,St. Louis,MO
+Brown-Forman,"$2,994 ",$669.00 ,"$4,625 ","4,570","Food, Beverages &  Tobacco",Beverages,Louisville,KY
+Cinemark Holdings,"$2,992 ",$264.20 ,"$4,471 ","19,915",Media,Entertainment,Plano,TX
+Granite Construction,"$2,990 ",$69.10 ,"$1,872 ","3,600",Engineering &  Construction,"Engineering, Construction",Watsonville,CA
+Dycom Industries,"$2,978 ",$151.30 ,"$1,841 ","14,365",Engineering &  Construction,"Engineering, Construction",Palm Beach Gardens,FL
+Clean Harbors,"$2,945 ",$100.70 ,"$3,707 ","12,700",Business Services,Waste Management,Norwell,MA
+First Solar,"$2,941 ",($165.60),"$6,865 ","4,100",Energy,Energy,Tempe,AZ
+Scotts Miracle-Gro,"$2,936 ",$218.30 ,"$2,747 ","4,700",Chemicals,Chemicals,Marysville,OH
+Cracker Barrel Old Country Store,"$2,926 ",$201.90 ,"$1,522 ","73,000","Hotels, Restaurants &  Leisure",Food Services,Lebanon,TN
+Triple-S Management,"$2,916 ",$54.50 ,"$3,117 ","3,517",Health Care,Health Care: Insurance and Managed Care,San Juan,Puerto Rico
+First Republic Bank,"$2,912 ",$757.70 ,"$87,781 ","4,025",Financials,Commercial Banks,SF,CA
+ServiceMaster Global Holdings,"$2,912 ",$510.00 ,"$5,646 ","13,000",Business Services,Diversified Outsourcing Services,Memphis,TN
+PC Connection,"$2,912 ",$54.90 ,$748 ,"2,505",Retailing,Specialty Retailers: Other,Merrimack,NH
+Genesco,"$2,907 ",($111.80),"$1,315 ","19,350",Retailing,Specialty Retailers: Apparel,Nashville,TN
+Medical Mutual of Ohio,"$2,895 ",$8.10 ,"$2,234 ","2,244",Financials,"Insurance: Life, Health (Mutual)",Cleveland,OH
+MSC Industrial Direct,"$2,888 ",$231.40 ,"$2,099 ","6,563",Wholesalers,Wholesalers: Diversified,Melville,NY
+Legg Mason,"$2,887 ",$227.30 ,"$8,290 ","3,338",Financials,Securities,Baltimore,MD
+Hyster-Yale Materials Handling,"$2,885 ",$48.60 ,"$1,648 ","6,800",Industrials,Industrial Machinery,Cleveland,OH
+Apollo Global Management,"$2,884 ",$629.10 ,"$6,991 ","1,047",Financials,Securities,New York,NY
+Citrix Systems,"$2,883 ",($20.70),"$5,820 ","7,500",Technology,Computer Software,Fort Lauderdale,FL
+Acadia Healthcare,"$2,877 ",$199.80 ,"$6,425 ","34,050",Health Care,Health Care: Medical Facilities,Franklin,TN
+Varian Medical Systems,"$2,862 ",$249.60 ,"$3,179 ","6,600",Health Care,Medical Products and Equipment,Palo Alto,CA
+Groupon,"$2,859 ",$14.00 ,"$1,678 ","6,672",Technology,Internet Services and Retailing,Chicago,IL
+Aleris,"$2,858 ",($210.60),"$2,644 ","5,400",Materials,Metals,Cleveland,OH
+Sprague Resources,"$2,855 ",$29.50 ,"$1,363 ",981,Wholesalers,Wholesalers: Diversified,Portsmouth,NH
+Cooper Tire & Rubber,"$2,855 ",$95.40 ,"$2,608 ","9,204",Motor Vehicles &  Parts,Motor Vehicles and Parts,Findlay,OH
+Hain Celestial Group,"$2,853 ",$67.40 ,"$2,931 ","7,825","Food, Beverages &  Tobacco",Food Consumer Products,Lake Success,NY
+Penn Mutual Life Insurance,"$2,851 ",$594.00 ,"$31,660 ","3,089",Financials,"Insurance: Life, Health (stock)",Horsham,PA
+Colony NorthStar,"$2,842 ",($197.90),"$24,786 ",544,Financials,Real estate,Los Angeles,CA
+ArcBest,"$2,827 ",$59.70 ,"$1,366 ","13,000",Transportation,"Trucking, Truck Leasing",Fort Smith,AR
+Presidio,"$2,818 ",$4.40 ,"$2,651 ","2,700",Technology,Information Technology Services,New York,NY
+TRI Pointe Group,"$2,810 ",$187.20 ,"$3,805 ","1,251",Engineering &  Construction,Homebuilders,Irvine,CA
+Annaly Capital Management,"$2,809 ","$1,569.60 ","$101,760 ",152,Financials,Diversified Financials,New York,NY
+G-III Apparel Group,"$2,807 ",$62.10 ,"$1,915 ","9,961",Apparel,Apparel,New York,NY
+AMC Networks,"$2,806 ",$471.30 ,"$5,033 ","2,039",Media,Entertainment,New York,NY
+Enable Midstream Partners,"$2,803 ",$436.00 ,"$11,593 ","1,630",Energy,Pipelines,Oklahoma City,OK
+Ciena,"$2,802 ","$1,262.00 ","$3,952 ","5,737",Technology,Network and Other Communications Equipment,Hanover,MD
+DSW,"$2,800 ",$67.30 ,"$1,414 ","12,000",Retailing,Specialty Retailers: Apparel,Columbus,OH
+Convergys,"$2,792 ",$121.40 ,"$2,415 ","115,000",Business Services,Diversified Outsourcing Services,Cincinnati,OH
+Park Hotels & Resorts,"$2,791 ","$2,625.00 ","$9,714 ",520,Financials,Real estate,McLean,VA
+Pool,"$2,788 ",$191.60 ,"$1,101 ","4,000",Wholesalers,Wholesalers: Diversified,Covington,LA
+Fossil Group,"$2,788 ",($478.20),"$1,658 ","12,300",Apparel,Apparel,Richardson,TX
+Dominos Pizza,"$2,788 ",$277.90 ,$837 ,"14,200","Hotels, Restaurants &  Leisure",Food Services,Ann Arbor,MI
+Crane,"$2,786 ",$171.80 ,"$3,594 ","10,600",Industrials,Industrial Machinery,Stamford,CT
+Caleres,"$2,786 ",$87.20 ,"$1,489 ","12,000",Retailing,Specialty Retailers: Apparel,St. Louis,MO
+Tempur Sealy International,"$2,754 ",$151.40 ,"$2,694 ","7,000",Household Products,"Home Equipment, Furnishings",Lexington,KY
+Tetra Tech,"$2,753 ",$117.90 ,"$1,903 ","16,000",Engineering &  Construction,"Engineering, Construction",Pasadena,CA
+Illumina,"$2,752 ",$726.00 ,"$5,257 ","6,200",Technology,"Scientific,Photographic and  Control Equipment",San Diego,CA
+Valmont Industries,"$2,746 ",$116.20 ,"$2,602 ","10,690",Materials,Metals,Omaha,NE
+Hill-Rom Holdings,"$2,744 ",$133.60 ,"$4,529 ","10,000",Health Care,Medical Products and Equipment,Chicago,IL
+Unisys,"$2,742 ",($65.30),"$2,542 ","20,500",Technology,Information Technology Services,Blue Bell,PA
+Zions Bancorp.,"$2,736 ",$592.00 ,"$66,288 ","10,083",Financials,Commercial Banks,Salt Lake City,UT
+Sinclair Broadcast Group,"$2,734 ",$576.00 ,"$6,785 ","8,900",Media,Entertainment,Cockeysville,MD
+Louisiana-Pacific,"$2,734 ",$389.80 ,"$2,449 ","5,000",Materials,"Building Materials, Glass",Nashville,TN
+Mettler-Toledo International,"$2,725 ",$376.00 ,"$2,550 ","14,600",Technology,"Scientific,Photographic and  Control Equipment",Columbus,OH
+Synopsys,"$2,725 ",$136.60 ,"$5,396 ","11,686",Technology,Computer Software,Mountain View,CA
+Kemper,"$2,723 ",$120.90 ,"$8,376 ","5,550",Financials,Insurance: Property and Casualty (Stock),Chicago,IL
+Cabot,"$2,717 ",$241.00 ,"$3,314 ","4,500",Chemicals,Chemicals,Boston,MA
+Great Plains Energy,"$2,708 ",($106.20),"$12,458 ","2,709",Energy,Utilities: Gas and Electric,KCMO,MO
+Rent-A-Center,"$2,703 ",$6.70 ,"$1,421 ","18,300",Retailing,Specialty Retailers: Other,Plano,TX
+Hawaiian Holdings,"$2,696 ",$364.00 ,"$2,860 ","6,660",Transportation,Airlines,Honolulu,HI
+Revlon,"$2,694 ",($183.20),"$3,057 ","7,800",Household Products,Household and Personal Products,New York,NY
+Syneos Health,"$2,672 ",($138.50),"$7,286 ","21,000",Health Care,Health Care: Pharmacy and Other Services,Raleigh,NC
+Public Storage,"$2,669 ","$1,442.20 ","$10,733 ","5,600",Financials,Real estate,Glendale,CA
+TTM Technologies,"$2,659 ",$124.20 ,"$2,782 ","29,000",Technology,Semiconductors and Other Electronic Components,Costa Mesa,CA
+Vectren,"$2,657 ",$216.00 ,"$6,239 ","5,500",Energy,Utilities: Gas and Electric,Evansville,IN
+Trimble,"$2,654 ",$121.10 ,"$4,298 ","9,523",Technology,"Scientific,Photographic and  Control Equipment",Sunnyvale,CA
+NOW,"$2,648 ",($52.00),"$1,749 ","4,463",Wholesalers,Wholesalers: Diversified,Houston,TX
+Spirit Airlines,"$2,648 ",$420.60 ,"$4,144 ","6,100",Transportation,Airlines,Miramar,FL
+ASGN,"$2,626 ",$157.70 ,"$1,810 ","3,800",Business Services,Temporary Help,Calabasas,CA
+Lincoln Electric Holdings,"$2,624 ",$247.50 ,"$2,407 ","11,000",Industrials,Industrial Machinery,Cleveland,OH
+Prologis,"$2,618 ","$1,652.30 ","$29,481 ","1,565",Financials,Real estate,SF,CA
+Range Resources,"$2,611 ",$333.10 ,"$11,729 ",773,Energy,"Mining, Crude-Oil Production",Fort Worth,TX
+Teledyne Technologies,"$2,604 ",$227.20 ,"$3,846 ","10,340",Aerospace &  Defense,Aerospace and Defense,Thousand Oaks,CA
+Vishay Intertechnology,"$2,604 ",($20.30),"$3,459 ","23,000",Technology,Semiconductors and Other Electronic Components,Malvern,PA
+Boston Properties,"$2,602 ",$462.40 ,"$19,372 ",740,Financials,Real estate,Boston,MA
+Applied Industrial Technologies,"$2,594 ",$133.90 ,"$1,388 ","5,554",Wholesalers,Wholesalers: Diversified,Cleveland,OH
+Graham Holdings,"$2,592 ",$302.00 ,"$4,938 ","16,153",Business Services,Education,Arlington,VA
+Amica Mutual Insurance,"$2,590 ",$96.10 ,"$6,355 ","3,693",Financials,Insurance: Property and Casualty (Mutual),Lincoln,RI
+Concho Resources,"$2,586 ",$956.00 ,"$13,732 ","1,203",Energy,"Mining, Crude-Oil Production",Midland,TX
+ITT,"$2,585 ",$113.50 ,"$3,700 ","10,000",Industrials,Industrial Machinery,White Plains,NY
+Kansas City Southern,"$2,583 ",$962.00 ,"$9,199 ","7,130",Transportation,Railroads,KCMO,MO
+MDC Holdings,"$2,578 ",$141.80 ,"$2,780 ","1,491",Engineering &  Construction,Homebuilders,Denver,CO
+Evergy,"$2,571 ",$323.90 ,"$11,624 ","2,205",Energy,Utilities: Gas and Electric,Topeka,KS
+Pinnacle Entertainment,"$2,562 ",$63.10 ,"$3,950 ","15,377","Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",Las Vegas,NV
+Hawaiian Electric Industries,"$2,556 ",$165.30 ,"$13,100 ","3,880",Energy,Utilities: Gas and Electric,Honolulu,HI
+TEGNA,"$2,550 ",$273.70 ,"$4,962 ","5,283",Media,Entertainment,McLean,VA
+Southwest Gas Holdings,"$2,549 ",$193.80 ,"$6,237 ","7,771",Energy,Utilities: Gas and Electric,Las Vegas,NV
+Vista Outdoor,"$2,547 ",($274.50),"$2,977 ","6,400",Household Products,Miscellaneous,Farmington,UT
+Bon-Ton Stores,"$2,541 ",($90.70),"$1,587 ","23,300",Retailing,General Merchandisers,York,PA
+Super Micro Computer,"$2,530 ",$69.30 ,"$1,489 ","2,699",Technology,"Computers, Office Equipment",San Jose,CA
+Plexus,"$2,528 ",$112.10 ,"$1,976 ","16,000",Technology,Semiconductors and Other Electronic Components,Neenah,WI
+TrueBlue,"$2,509 ",$55.50 ,"$1,109 ","5,500",Business Services,Temporary Help,Tacoma,WA
+Magellan Midstream Partners,"$2,508 ",$869.50 ,"$7,394 ","1,802",Energy,Pipelines,Tulsa,OK
+Toro,"$2,505 ",$267.70 ,"$1,494 ","6,779",Industrials,Construction and Farm Machinery,Bloomington,MN
+Akamai Technologies,"$2,503 ",$218.30 ,"$4,603 ","7,650",Technology,Internet Services and Retailing,Cambridge,MA
+Moog,"$2,498 ",$141.30 ,"$3,091 ","10,675",Aerospace &  Defense,Aerospace and Defense,Elma Center,NY
+Vertex Pharmaceuticals,"$2,489 ",$263.50 ,"$3,546 ","2,300",Health Care,Pharmaceuticals,Boston,MA
+Equity Residential,"$2,471 ",$603.50 ,"$20,571 ","2,683",Financials,Real estate,Chicago,IL
+Selective Insurance Group,"$2,470 ",$168.80 ,"$7,686 ","2,260",Financials,Insurance: Property and Casualty (Stock),Branchville,NJ
+AptarGroup,"$2,469 ",$220.00 ,"$3,138 ","13,200",Materials,"Packaging, Containers",Crystal Lake,IL
+Benchmark Electronics,"$2,467 ",($32.00),"$2,097 ","10,600",Technology,Semiconductors and Other Electronic Components,Scottsdale,AZ
+Columbia Sportswear,"$2,466 ",$105.10 ,"$2,213 ","6,188",Apparel,Apparel,Portland,OR
+A. Schulman,"$2,461 ",$33.00 ,"$1,754 ","4,900",Chemicals,Chemicals,Fairlawn,OH
+Verso,"$2,461 ",($30.00),"$1,732 ","4,200",Materials,Forest and Paper Products,Miamisburg,OH
+Digital Realty Trust,"$2,458 ",$248.30 ,"$21,404 ","1,429",Financials,Real estate,SF,CA
+GNC Holdings,"$2,453 ",($148.90),"$1,517 ","11,500",Food &  Drug Stores,Food and Drug Stores,Pittsburgh,PA
+E*Trade Financial,"$2,452 ",$614.00 ,"$63,365 ","3,607",Financials,Securities,New York,NY
+Hovnanian Enterprises,"$2,452 ",($332.20),"$1,901 ","1,905",Engineering &  Construction,Homebuilders,Red Bank,NJ
+Maximus,"$2,451 ",$209.40 ,"$1,351 ","20,400",Technology,Information Technology Services,Reston,VA
+Twitter,"$2,443 ",($108.10),"$7,413 ","3,372",Technology,Internet Services and Retailing,SF,CA
+Par Pacific Holdings,"$2,443 ",$72.60 ,"$1,347 ",905,Energy,Petroleum Refining,Houston,TX
+Parexel International,"$2,442 ",$107.30 ,"$2,313 ","18,900",Health Care,Health Care: Pharmacy and Other Services,Waltham,MA
+RH,"$2,440 ",$2.20 ,"$1,733 ","4,750",Retailing,Specialty Retailers: Other,Corte Madera,CA
+Nexstar Media Group,"$2,432 ",$475.00 ,"$7,482 ","8,737",Media,Entertainment,Irving,TX
+Knight-Swift Transportation Holdings,"$2,426 ",$484.30 ,"$7,683 ","25,300",Transportation,"Trucking, Truck Leasing",Phoenix,AZ
+Red Hat,"$2,412 ",$253.70 ,"$4,535 ","10,500",Technology,Computer Software,Raleigh,NC
+Belden,"$2,389 ",$93.20 ,"$3,841 ","8,800",Industrials,"Electronics, Electrical Equip.",St. Louis,MO
+Boyd Gaming,"$2,384 ",$189.20 ,"$4,686 ","19,707","Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",Las Vegas,NV
+Primoris Services,"$2,380 ",$72.40 ,"$1,256 ","7,102",Engineering &  Construction,"Engineering, Construction",Dallas,TX
+Gardner Denver,"$2,375 ",$18.40 ,"$4,621 ","6,400",Industrials,Industrial Machinery,Milwaukee,WI
+Donaldson,"$2,372 ",$232.80 ,"$1,980 ","13,200",Industrials,Industrial Machinery,Minneapolis,MN
+Party City Holdco,"$2,372 ",$215.30 ,"$3,455 ","14,600",Retailing,Specialty Retailers: Other,Elmsford,NY
+J.Crew Group,"$2,370 ",($125.00),"$1,201 ","8,950",Retailing,Specialty Retailers: Apparel,New York,NY
+EnerSys,"$2,367 ",$160.20 ,"$2,293 ","9,400",Industrials,"Electronics, Electrical Equip.",Reading,PA
+Guess,"$2,364 ",($7.90),"$1,656 ","14,700",Retailing,Specialty Retailers: Apparel,Los Angeles,CA
+Patterson-UTI Energy,"$2,357 ",$5.90 ,"$5,759 ","8,000",Energy,"Oil and Gas Equipment, Services",Houston,TX
+WGL Holdings,"$2,355 ",$192.60 ,"$6,626 ","1,586",Energy,Energy,Leavenworth,WA
+Wolverine World Wide,"$2,350 ",$0.30 ,"$2,399 ","3,700",Apparel,Apparel,Rockford,MI
+Xilinx,"$2,349 ",$622.50 ,"$4,741 ","3,831",Technology,Semiconductors and Other Electronic Components,San Jose,CA
+Vornado Realty Trust,"$2,345 ",$227.40 ,"$17,398 ","3,989",Financials,Real estate,New York,NY
+Middleby,"$2,336 ",$298.10 ,"$3,340 ","8,493",Industrials,Industrial Machinery,Elgin,IL
+MPM Holdings,"$2,331 ",$0.00 ,"$2,717 ","5,200",Chemicals,Chemicals,Waterford,NY
+Cleveland-Cliffs,"$2,330.20 ",$367.00 ,"$2,953.40 ",2938,Energy,"Mining, Crude-Oil Production",Cleveland,OH
+GGP,"$2,328 ",$657.30 ,"$23,350 ","1,700",Financials,Real estate,Chicago,IL
+Cypress Semiconductor,"$2,328 ",($80.90),"$3,537 ","6,099",Technology,Semiconductors and Other Electronic Components,San Jose,CA
+Arch Coal,"$2,325 ",$238.50 ,"$1,980 ","3,790",Energy,"Mining, Crude-Oil Production",St. Louis,MO
+GMS,"$2,319 ",$48.90 ,"$1,393 ","4,464",Wholesalers,Wholesalers: Diversified,Tucker,GA
+Waters,"$2,309 ",$20.30 ,"$5,340 ","7,000",Technology,"Scientific,Photographic and  Control Equipment",Milford,MA
+H.B. Fuller,"$2,306 ",$58.20 ,"$4,361 ","5,965",Chemicals,Chemicals,St Paul,MN
+Affiliated Managers Group,"$2,305 ",$689.50 ,"$8,702 ","4,400",Financials,Securities,West Palm Beach,FL
+PerkinElmer,"$2,301 ",$292.60 ,"$6,092 ","11,000",Technology,"Scientific,Photographic and  Control Equipment",Waltham,MA
+Edgewell Personal Care,"$2,298 ",$5.70 ,"$4,189 ","6,000",Household Products,Household and Personal Products,Chesterfield,MO
+Maxim Integrated Products,"$2,296 ",$571.60 ,"$4,570 ","7,040",Technology,Semiconductors and Other Electronic Components,San Jose,CA
+Knights of Columbus,"$2,290 ",$108.10 ,"$24,954 ",926,Financials,"Insurance: Life, Health (Mutual)",New Haven,CT
+IDEX,"$2,287 ",$337.30 ,"$3,400 ","7,167",Industrials,Industrial Machinery,Lake Forest,IL
+DST Systems,"$2,284 ",$451.50 ,"$2,938 ","14,200",Business Services,Financial Data Services,KCMO,MO
+Chicos FAS,"$2,282 ",$101.00 ,"$1,088 ","12,350",Retailing,Specialty Retailers: Apparel,Fort Myers,FL
+Nu Skin Enterprises,"$2,279 ",$129.40 ,"$1,590 ","48,700",Household Products,Household and Personal Products,Provo,UT
+Herman Miller,"$2,278 ",$123.90 ,"$1,306 ","7,478",Household Products,"Home Equipment, Furnishings",Zeeland,MI
+NLV Financial,"$2,275 ",$259.90 ,"$30,209 ","1,065",Financials,"Insurance: Life, Health (stock)",Montpelier,VT
+Curtiss-Wright,"$2,271 ",$214.90 ,"$3,236 ","8,600",Aerospace &  Defense,Aerospace and Defense,Charlotte,NC
+New Jersey Resources,"$2,269 ",$132.10 ,"$3,929 ","1,052",Energy,Energy,Wall Township,NJ
+REV Group,"$2,268 ",$31.40 ,"$1,254 ","7,800",Motor Vehicles &  Parts,Motor Vehicles and Parts,Milwaukee,WI
+Mueller Industries,"$2,266 ",$85.60 ,"$1,320 ","4,125",Industrials,Industrial Machinery,Memphis,TN
+GEO Group,"$2,263 ",$146.20 ,"$4,227 ","18,512",Business Services,Miscellaneous,Boca Raton,FL
+Allison Transmission Holdings,"$2,262 ",$504.00 ,"$4,205 ","2,700",Motor Vehicles &  Parts,Motor Vehicles and Parts,Indianapolis,IN
+OGE Energy,"$2,261 ",$619.00 ,"$10,413 ","2,413",Energy,Utilities: Gas and Electric,Oklahoma City,OK
+Cheesecake Factory,"$2,261 ",$157.40 ,"$1,333 ","39,100","Hotels, Restaurants &  Leisure",Food Services,Calabasas,CA
+PRA Health Sciences,"$2,259 ",$86.90 ,"$3,358 ","15,800",Technology,"Scientific,Photographic and  Control Equipment",Raleigh,NC
+Tupperware Brands,"$2,255.80 ",($265.40),"$1,388 ",12000,Household Products,Household and Personal Products,Orlando,FL
+Euronet Worldwide,"$2,252 ",$156.80 ,"$3,140 ","6,600",Business Services,Financial Data Services,Leawood,KS
+FLEETCOR Technologies,"$2,250 ",$740.20 ,"$11,318 ","7,890",Business Services,Financial Data Services,Norcross,GA
+Nationstar Mortgage Holdings,"$2,247 ",$30.00 ,"$18,036 ","7,600",Financials,Diversified Financials,Coppell,TX
+GoDaddy,"$2,232 ",$136.40 ,"$5,738 ","5,990",Technology,Internet Services and Retailing,Scottsdale,AZ
+Blackhawk Network Holdings,"$2,232 ",($155.80),"$4,140 ","3,190",Business Services,Financial Data Services,Pleasanton,CA
+Cboe Global Markets,"$2,229 ",$401.70 ,"$5,266 ",889,Financials,Securities,Chicago,IL
+Snyders-Lance,"$2,227 ",$148.50 ,"$3,618 ","5,900","Food, Beverages &  Tobacco",Food Consumer Products,Charlotte,NC
+Murphy Oil,"$2,226 ",($311.80),"$9,861 ","1,128",Energy,"Mining, Crude-Oil Production",El Dorado,AR
+CDK Global,"$2,220 ",$295.60 ,"$2,883 ","8,900",Technology,Computer Software,Hoffman Estates,IL
+Texas Roadhouse,"$2,220 ",$131.50 ,"$1,331 ","29,524","Hotels, Restaurants &  Leisure",Food Services,Louisville,KY
+Kirby,"$2,214 ",$313.20 ,"$5,127 ","5,775",Transportation,Shipping,Houston,TX
+Square,"$2,214 ",($62.80),"$2,187 ","2,338",Business Services,Financial Data Services,SF,CA
+Genesee & Wyoming,"$2,208 ",$549.10 ,"$8,035 ","8,000",Transportation,Railroads,Darien,CT
+Zayo Group Holdings,"$2,200 ",$85.70 ,"$8,739 ","3,794",Telecommunications,Telecommunications,Boulder,CO
+NewMarket,"$2,198 ",$190.50 ,"$1,712 ","2,223",Chemicals,Chemicals,Richmond,VA
+99 Cents Only Stores,"$2,194 ",($90.30),"$1,537 ","17,200",Retailing,Specialty Retailers: Other,Commerce,CA
+PCM,"$2,193 ",$3.10 ,$740 ,"4,118",Wholesalers,Wholesalers: Electronics and Office Equipment,El Segundo,CA
+Federated Mutual Insurance,"$2,181 ",$217.60 ,"$7,630 ","2,388",Financials,Insurance: Property and Casualty (Mutual),Owatonna,MN
+HNI,"$2,176 ",$89.80 ,"$1,392 ","9,350",Household Products,"Home Equipment, Furnishings",Muscatine,IA
+Hospitality Properties Trust,"$2,172 ",$215.10 ,"$7,150 ",450,Financials,Real estate,Newton,MA
+Greenbrier Cos.,"$2,169 ",$116.10 ,"$2,398 ","11,917",Transportation,Transportation Equipment,Lake Oswego,OR
+Bio-Rad Laboratories,"$2,160 ",$122.20 ,"$4,273 ","8,150",Health Care,"Scientific,Photographic and  Control Equipment",Hercules,CA
+AvalonBay Communities,"$2,159 ",$876.90 ,"$18,415 ","3,123",Financials,Real estate,Arlington,VA
+Renewable Energy Group,"$2,158 ",($79.10),"$10,056 ",853,Energy,Energy,Ames,IA
+Atlas Air Worldwide Holdings,"$2,157 ",$223.50 ,"$4,956 ","2,870",Transportation,Transportation and Logistics,Harrison,NY
+Teradata,"$2,156 ",($67.00),"$2,556 ","10,615",Technology,Information Technology Services,Dayton,OH
+LCI Industries,"$2,148 ",$132.90 ,$946 ,"9,852",Motor Vehicles &  Parts,Motor Vehicles and Parts,Elkhart,IN
+Teleflex,"$2,146 ",$152.50 ,"$6,182 ","14,400",Health Care,Medical Products and Equipment,Wayne,PA
+Verisk Analytics,"$2,145 ",$555.10 ,"$6,020 ","7,192",Business Services,Financial Data Services,Jersey City,NJ
+Popular,"$2,145 ",$107.70 ,"$44,277 ","7,784",Financials,Commercial Banks,Hato Rey,Puerto Rico
+Workday,"$2,143 ",($321.20),"$4,947 ","8,200",Technology,Computer Software,Pleasanton,CA
+Cooper Cos.,"$2,139 ",$372.90 ,"$4,859 ","11,800",Health Care,Medical Products and Equipment,Pleasanton,CA
+Express,"$2,138 ",$19.40 ,"$1,188 ","9,576",Retailing,Specialty Retailers: Apparel,Columbus,OH
+Teradyne,"$2,137 ",$257.70 ,"$3,110 ","4,500",Technology,Semiconductors and Other Electronic Components,North Reading,MA
+Werner Enterprises,"$2,117 ",$202.90 ,"$1,808 ","12,154",Transportation,"Trucking, Truck Leasing",Omaha,NE
+Oaktree Capital Group,"$2,100 ",$231.50 ,"$9,015 ",930,Financials,Securities,Los Angeles,CA
+Woodward,"$2,099 ",$200.50 ,"$2,757 ","6,829",Aerospace &  Defense,Aerospace and Defense,Fort Collins,CO
+F5 Networks,"$2,090 ",$420.80 ,"$2,481 ","4,366",Technology,Network and Other Communications Equipment,Seattle,WA
+Valvoline,"$2,084 ",$304.00 ,"$1,915 ","5,600",Chemicals,Chemicals,Lexington,KY
+Roadrunner Transportation Systems,"$2,082 ",($106.70),$863 ,"4,645",Transportation,"Trucking, Truck Leasing",Downers Grove,IL
+SemGroup,"$2,082 ",($17.20),"$5,377 ","1,220",Energy,Pipelines,Tulsa,OK
+Catalent,"$2,075 ",$109.80 ,"$3,454 ","10,800",Health Care,Pharmaceuticals,Franklin Township,NJ
+Quorum Health,"$2,072 ",($114.20),"$1,829 ","11,250",Health Care,Health Care: Medical Facilities,Brentwood,TN
+Universal,"$2,071 ",$106.30 ,"$2,123 ","24,000","Food, Beverages &  Tobacco",Tobacco,Richmond,VA
+Nordson,"$2,067 ",$295.80 ,"$3,415 ","7,532",Industrials,Industrial Machinery,Westlake,OH
+ResMed,"$2,067 ",$342.30 ,"$3,469 ","6,080",Health Care,Medical Products and Equipment,San Diego,CA
+Tower International,"$2,066 ",$47.60 ,"$1,260 ","7,600",Motor Vehicles &  Parts,Motor Vehicles and Parts,Livonia,MI
+Freds,"$2,064 ",($140.30),$655 ,"7,324",Food &  Drug Stores,Food and Drug Stores,Memphis,TN
+Foundation Building Materials,"$2,061 ",$82.50 ,"$1,354 ","3,782",Wholesalers,Wholesalers: Diversified,Tustin,CA
+Kennametal,"$2,058 ",$49.10 ,"$2,416 ","10,744",Industrials,Industrial Machinery,Pittsburgh,PA
+Autodesk,"$2,057 ",($566.90),"$4,114 ","8,800",Technology,Computer Software,San Rafael,CA
+Ply Gem Holdings,"$2,056 ",$68.30 ,"$1,320 ","9,471",Materials,"Building Materials, Glass",Cary,NC
+Central Garden & Pet,"$2,055 ",$78.80 ,"$1,307 ","4,050",Household Products,Household and Personal Products,Walnut Creek,CA
+Matson,"$2,047 ",$232.00 ,"$2,248 ","1,947",Transportation,Shipping,Honolulu,HI
+EchoStar,"$2,039 ",$392.60 ,"$8,750 ","2,100",Technology,Network and Other Communications Equipment,Englewood,CO
+Genesis Energy,"$2,028 ",$82.60 ,"$7,138 ","2,100",Energy,Pipelines,Houston,TX
+SVB Financial Group,"$2,022 ",$490.50 ,"$51,215 ","2,438",Financials,Commercial Banks,Santa Clara,CA
+Itron,"$2,018 ",$57.30 ,"$2,106 ","7,150",Industrials,"Electronics, Electrical Equip.",Liberty Lake,WA
+Portland General Electric,"$2,009 ",$187.00 ,"$7,838 ","2,906",Energy,Utilities: Gas and Electric,Portland,OR
+California Resources,"$2,006 ",($266.00),"$6,207 ","1,450",Energy,"Mining, Crude-Oil Production",Los Angeles,CA
+Esterline Technologies,"$2,005 ",$111.60 ,"$3,120 ","13,255",Aerospace &  Defense,Aerospace and Defense,Bellevue,WA
+Delta Tucker Holdings,"$2,004 ",$30.60 ,$736 ,"8,800",Aerospace &  Defense,Aerospace and Defense,McLean,VA
+AMN Healthcare Services,"$1,989 ",$132.60 ,"$1,254 ","2,980",Health Care,Health Care: Pharmacy and Other Services,San Diego,CA
+Griffon,"$1,986 ",$14.90 ,"$1,874 ","4,700",Materials,"Building Materials, Glass",New York,NY
+Valhi,"$1,980 ",$207.50 ,"$2,908 ","2,790",Chemicals,Chemicals,Dallas,TX
+Hexcel,"$1,973 ",$284.00 ,"$2,781 ","6,259",Aerospace &  Defense,Aerospace and Defense,Stamford,CT
+IDEXX Laboratories,"$1,969 ",$263.10 ,"$1,713 ","7,600",Health Care,Medical Products and Equipment,Westbrook,ME
+Deluxe,"$1,966 ",$230.20 ,"$2,209 ","5,886",Media,"Publishing, Printing",Shoreview,MN
+M/I Homes,"$1,962.00 ",$72.10 ,"$1,864.80 ",1238,Engineering &  Construction,Homebuilders,Columbus,OH
+Kraton,"$1,960 ",$97.50 ,"$2,933 ","1,931",Chemicals,Chemicals,Houston,TX
+Stewart Information Services,"$1,956 ",$48.70 ,"$1,406 ","5,960",Financials,Insurance: Property and Casualty (Stock),Houston,TX
+Marriott Vacations Worldwide,"$1,952 ",$226.80 ,"$2,906 ","11,000","Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",Orlando,FL
+SPX FLOW,"$1,952 ",$46.40 ,"$2,689 ","7,000",Industrials,Industrial Machinery,Charlotte,NC
+ACCO Brands,"$1,949 ",$131.70 ,"$2,799 ","6,620",Household Products,"Home Equipment, Furnishings",Lake Zurich,IL
+Echo Global Logistics,"$1,943 ",$12.60 ,$838 ,"2,453",Transportation,Transportation and Logistics,Chicago,IL
+Cadence Design Systems,"$1,943 ",$204.10 ,"$2,419 ","7,214",Technology,Computer Software,San Jose,CA
+Nuance Communications,"$1,939 ",($151.00),"$5,932 ","11,600",Technology,Computer Software,Burlington,MA
+Finish Line,"$1,934 ",($18.20),$747 ,"8,200",Retailing,Specialty Retailers: Apparel,Indianapolis,IN
+TransUnion,"$1,934 ",$441.20 ,"$5,119 ","5,100",Business Services,Financial Data Services,Chicago,IL
+ServiceNow,"$1,933 ",($149.10),"$3,398 ","6,222",Technology,Computer Software,Santa Clara,CA
+Summit Materials,"$1,933 ",$121.80 ,"$3,787 ","6,000",Materials,"Building Materials, Glass",Denver,CO
+Engility Holdings,"$1,932 ",($35.20),"$2,026 ","8,700",Aerospace &  Defense,Aerospace and Defense,Chantilly,VA
+Ferrellgas Partners,"$1,930 ",($54.20),"$1,610 ","3,891",Energy,Energy,Overland Park,KS
+Interactive Brokers Group,"$1,927 ",$76.00 ,"$61,162 ","1,228",Financials,Securities,Greenwich,CT
+Stepan,"$1,925 ",$91.60 ,"$1,471 ","2,096",Chemicals,Chemicals,Northfield,IL
+Oceaneering International,"$1,922 ",$166.40 ,"$3,024 ","8,200",Energy,"Oil and Gas Equipment, Services",Houston,TX
+Cimarex Energy,"$1,918 ",$494.30 ,"$5,043 ",910,Energy,"Mining, Crude-Oil Production",Denver,CO
+Rexnord,"$1,918 ",$74.10 ,"$3,539 ","8,000",Industrials,Industrial Machinery,Milwaukee,WI
+Beazer Homes USA,"$1,916 ",$31.80 ,"$2,221 ","1,100",Engineering &  Construction,Homebuilders,Atlanta,GA
+MKS Instruments,"$1,916 ",$339.10 ,"$2,414 ","4,923",Technology,Semiconductors and Other Electronic Components,Andover,MA
+Vail Resorts,"$1,907 ",$210.60 ,"$4,111 ","20,150","Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",Broomfield,CO
+Ohio National Mutual,"$1,907 ",$25.90 ,"$41,843 ","1,300",Financials,"Insurance: Life, Health (stock)",Cincinnati,OH
+TopBuild,"$1,906 ",$158.10 ,"$1,750 ","8,400",Engineering &  Construction,"Engineering, Construction",Daytona Beach,FL
+Brown & Brown,"$1,881 ",$399.60 ,"$5,748 ","8,491",Financials,Insurance: Property and Casualty (Stock),Daytona Beach,FL
+Aerojet Rocketdyne Holdings,"$1,877 ",($9.20),"$2,259 ","5,157",Aerospace &  Defense,Aerospace and Defense,El Segundo,CA
+Barnes & Noble Education,"$1,874 ",$5.40 ,"$1,300 ","13,375",Retailing,Specialty Retailers: Other,Bernards,NJ
+Superior Energy Services,"$1,874 ",($205.90),"$3,110 ","6,400",Energy,"Oil and Gas Equipment, Services",Houston,TX
+VeriFone Systems,"$1,871 ",($173.80),"$2,322 ","5,600",Technology,Financial Data Services,San Jose,CA
+Childrens Place,"$1,870 ",$84.70 ,$940 ,"9,800",Retailing,Specialty Retailers: Apparel,Secaucus,NJ
+Tribune Media,"$1,867 ",$194.10 ,"$8,169 ","6,000",Media,Entertainment,Chicago,IL
+Healthcare Services Group,"$1,866 ",$88.20 ,$676 ,"55,000",Health Care,Health Care: Pharmacy and Other Services,Bensalem,PA
+SiteOne Landscape Supply,"$1,862 ",$54.60 ,$911 ,"3,664",Wholesalers,Wholesalers: Diversified,Roswell,GA
+Charles River Laboratories Intl,"$1,858 ",$123.40 ,"$2,930 ","11,800",Health Care,Health Care: Pharmacy and Other Services,Wilmington,MA
+CoreLogic,"$1,851 ",$152.20 ,"$4,077 ","5,900",Business Services,Financial Data Services,Irvine,CA
+Ensign Group,"$1,849 ",$40.50 ,"$1,102 ","21,301",Health Care,Health Care: Medical Facilities,Mission Viejo,CA
+HCP,"$1,848 ",$414.20 ,"$14,089 ",190,Financials,Real estate,Irvine,CA
