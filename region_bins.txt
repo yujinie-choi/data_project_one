@@ -1,0 +1,28 @@
+1. CALI
+2. NEW YORK
+3. TEXAS
+4. NORTH 
+Maine, Delaware,New Hampshire,Vermont,Massachusetts
+Rhode Island, Maryland,Connecticut, New Jersey, Pennsylvania
+Washington DC
+ME, DE, NH, VT, MA, RI, MD, CT, NJ, PA, DC (11)
+
+5.SOUTH
+South Carolina, Virginia, West Virginia, North Carolina, 
+Mississippi, Alabama, Kentucky, Arkansas, Tennessee, 
+Florida, Georgia, Louisiana
+SC, VA, WV, NC, MS, AL, AR, GA, LA, FL, KY, TN (12)
+
+6.WEST 
+Washington, Oregon, Montana, Wyoming, Idaho, Utah, Colorado, 
+Alaska, Hawaii, Ariona, New Mexico
+WA, OR, MT, WY, ID, UT, CO, AK, HI, NM, AZ (11)
+
+7.MIDWEST
+North Dakota, South Dakota, Minnesota, Nebraska, Kansas
+Wisconsin, Iowa, Missouri, Oklahoma, Illionois, Indiana
+Michigan, Ohio
+ND, SD, MN, NE, KS, WI, IA, MO, OK, IL, IN, MI, OH (13)
+= 50
+
+
