@@ -1,0 +1,45 @@
+index,State,Sector,# Employees,State & Sector
+0,AL,Health Care,30935,AL -- Health Care
+1,AR,Retailing,2338300,AR -- Retailing
+2,AZ,Technology,99243,AZ -- Technology
+3,CA,Technology,1129452,CA -- Technology
+4,CO,"Hotels, Restaurants &  Leisure",89040,"CO -- Hotels, Restaurants &  Leisure"
+5,CT,Aerospace &  Defense,210959,CT -- Aerospace &  Defense
+6,DE,Chemicals,7000,DE -- Chemicals
+7,FL,"Hotels, Restaurants &  Leisure",283729,"FL -- Hotels, Restaurants &  Leisure"
+8,GA,Transportation,432979,GA -- Transportation
+9,HI,Transportation,8607,HI -- Transportation
+10,IA,Aerospace &  Defense,29000,IA -- Aerospace &  Defense
+11,ID,Food &  Drug Stores,273000,ID -- Food &  Drug Stores
+12,IL,Food &  Drug Stores,290000,IL -- Food &  Drug Stores
+13,IN,Health Care,114855,IN -- Health Care
+14,KS,Transportation,32000,KS -- Transportation
+15,KY,Health Care,110100,KY -- Health Care
+16,LA,Telecommunications,51000,LA -- Telecommunications
+17,MA,Industrials,313000,MA -- Industrials
+18,MD,"Hotels, Restaurants &  Leisure",177000,"MD -- Hotels, Restaurants &  Leisure"
+19,ME,Health Care,7600,ME -- Health Care
+20,MI,Motor Vehicles &  Parts,732583,MI -- Motor Vehicles &  Parts
+21,MN,Retailing,470000,MN -- Retailing
+22,MO,Financials,99640,MO -- Financials
+23,MS,"Food, Beverages &  Tobacco",14669,"MS -- Food, Beverages &  Tobacco"
+25,NC,Retailing,264750,NC -- Retailing
+26,ND,Energy,10140,ND -- Energy
+27,NE,Financials,393308,NE -- Financials
+28,NH,Retailing,2505,NH -- Retailing
+29,NJ,Health Care,317400,NJ -- Health Care
+30,NV,"Hotels, Restaurants &  Leisure",252884,"NV -- Hotels, Restaurants &  Leisure"
+31,NY,Financials,1119097,NY -- Financials
+32,OH,Food &  Drug Stores,449000,OH -- Food &  Drug Stores
+33,OK,Energy,25401,OK -- Energy
+34,OR,Apparel,80588,OR -- Apparel
+35,PA,Health Care,262550,PA -- Health Care
+37,RI,Health Care,203000,RI -- Health Care
+38,SC,Materials,38700,SC -- Materials
+39,TN,Health Care,515091,TN -- Health Care
+40,TX,"Hotels, Restaurants &  Leisure",507906,"TX -- Hotels, Restaurants &  Leisure"
+41,UT,Household Products,55100,UT -- Household Products
+42,VA,Aerospace &  Defense,238000,VA -- Aerospace &  Defense
+43,VT,Financials,1065,VT -- Financials
+44,WA,Retailing,846615,WA -- Retailing
+45,WI,Industrials,102700,WI -- Industrials
